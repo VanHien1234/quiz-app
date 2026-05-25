@@ -1,0 +1,326 @@
+[
+
+
+{
+    "id": "1.1",
+    "part": "1",
+    "question": "_______ team sports require cooperation.",
+    "options": ["Of all", "They are all", "All", "Why are all"],
+    "correctAnwser": "All",
+    "desc": ""
+  },
+  {
+    "id": "1.2",
+    "part": "1",
+    "question": "Anyone who has ever pulled weeds from a garden _______ roots firmly anchor plants to the soil.",
+    "options": ["is well aware of", "is well aware that", "well aware", "well aware that"],
+    "correctAnwser": "well aware that",
+    "desc": ""
+  },
+  {
+    "id": "1.3",
+    "part": "1",
+    "question": "Centuries of erosion have exposed _______ rock surfaces in the Painted Desert of northern Arizona.",
+    "options": ["in colors of the rainbow", "colored like a rainbow", "rainbow-colored", "a rainbow coloring"],
+    "correctAnwser": "rainbow-colored",
+    "desc": ""
+  },
+  {
+    "id": "1.4",
+    "part": "1",
+    "question": "The higher the temperature of a molecule, _______",
+    "options": ["the more energy it has", "than it has more energy", "more energy has it", "it has more energy"],
+    "correctAnwser": "the more energy it has",
+    "desc": ""
+  },
+  {
+    "id": "1.5",
+    "part": "1",
+    "question": "In the second half of the nineteenth century, textiles from the southwestern United state, particularly fabrics woven by the Navajo people, _______",
+    "options": ["began to be used as rugs", "rugs began to be used", "as rugs began to be used", "began to use them as rugs"],
+    "correctAnwser": "began to be used as rugs",
+    "desc": ""
+  },
+  {
+    "id": "1.6",
+    "part": "1",
+    "question": "_______ young, chimpanzees are easily trained.",
+    "options": ["When are", "When", "They are", "When they"],
+    "correctAnwser": "When",
+    "desc": ""
+  },
+  {
+    "id": "1.7",
+    "part": "1",
+    "question": "During adolescence many young people begin to question _______ held by their families.",
+    "options": ["the values", "of the values", "are the values", "the values are"],
+    "correctAnwser": "the values",
+    "desc": ""
+  },
+  {
+    "id": "1.8",
+    "part": "1",
+    "question": "_______ have settled, one of their first concerns has been to locate an adequate water supply.",
+    "options": ["Wherever people", "There are people who", "Whether people", "People"],
+    "correctAnwser": "Wherever people",
+    "desc": ""
+  },
+  {
+    "id": "1.9",
+    "part": "1",
+    "question": "If a bar magnet is _______, the two pieces form two complete magnets, each with a north and a south pole.",
+    "options": ["broken", "broke", "breaking", "break"],
+    "correctAnwser": "broken",
+    "desc": ""
+  },
+  {
+    "id": "1.10",
+    "part": "1",
+    "question": "The type of plant and animal life living in and around a pond depends on the soil of the pond, _______, and the pond's location.",
+    "options": ["what the quality of the water is", "how is the water quality", "the quality of the water", "what is the water quality"],
+    "correctAnwser": "the quality of the water",
+    "desc": ""
+  },
+
+
+  {
+    "id": "1.11",
+    "part": "1",
+    "question": "Clifford Holland, _______ civil engineer, was in charge of the construction of the first tunnel under the Hudson River.",
+    "options": ["he was a", "a", "being a", "who, as a"],
+    "correctAnwser": "a",
+    "desc": "Cụm danh từ 'a civil engineer' đóng vai trò đồng vị ngữ (appositive) giải thích cho chủ ngữ Clifford Holland."
+  },
+  {
+    "id": "1.12",
+    "part": "1",
+    "question": "_______ parrots are native to tropical regions is untrue.",
+    "options": ["That all", "All", "Why all", "Since all"],
+    "correctAnwser": "That all",
+    "desc": "Mệnh đề danh từ 'That all parrots are native to tropical regions' đóng vai trò làm chủ ngữ cho động từ 'is' phía sau."
+  },
+  {
+    "id": "1.13",
+    "part": "1",
+    "question": "A major concern among archaeologists today is the preservation of archaeological sites, _______ are threatened by development.",
+    "options": ["of which many", "many of them", "which many", "many of which"],
+    "correctAnwser": "many of which",
+    "desc": "Sử dụng đại từ quan hệ 'which' thay thế cho 'archaeological sites'. Cấu trúc định lượng + of which: 'many of which'."
+  },
+  {
+    "id": "1.14",
+    "part": "1",
+    "question": "In 1775 Daniel Boone opened the Wilderness Trail and made _______ the first settlements in Kentucky.",
+    "options": ["possibly it was", "as possible", "possible", "it possible"],
+    "correctAnwser": "possible",
+    "desc": "Cấu trúc: make + something + possible (biến điều gì đó thành hiện thực). Đảo ngữ 'make possible something' khi tân ngữ quá dài."
+  },
+  {
+    "id": "1.15",
+    "part": "1",
+    "question": "Rarely _______ seen far from water.",
+    "options": ["spotted turtles", "spotted turtles are", "have spotted turtles", "are spotted turtles"],
+    "correctAnwser": "are spotted turtles",
+    "desc": "Cấu trúc đảo ngữ với trạng từ phủ định 'Rarely' đứng đầu câu: Rarely + Trợ động từ/to be + S + V."
+  },
+  {
+    "id": "1.16",
+    "part": "1",
+    "question": "Sharp knives are actually safer to use _______.",
+    "options": ["as dull one", "as one that are dull", "than dull ones", "that are dull one"],
+    "correctAnwser": "than dull ones",
+    "desc": "Cấu trúc so sánh hơn với tính từ ngắn 'safer' đi kèm 'than'. 'ones' thay thế cho danh từ số nhiều 'knives'."
+  },
+  {
+    "id": "1.17",
+    "part": "1",
+    "question": "Daniel Webster, Thaddeus Stevens, and many others _______ prominent in public life began their careers by teaching school.",
+    "options": ["they became", "once they became", "became", "who became"],
+    "correctAnwser": "who became",
+    "desc": "Sử dụng đại từ quan hệ 'who' để tạo mệnh đề quan hệ bổ nghĩa cho 'many others'."
+  },
+  {
+    "id": "1.18",
+    "part": "1",
+    "question": "As coal mines became deeper, the problems of draining water, bringing in fresh air, and _______ to the surface increased.",
+    "options": ["transporting ore", "to transport ore", "how ore is transported", "ore is transporting"],
+    "correctAnwser": "transporting ore",
+    "desc": "Cấu trúc song hành (Parallelism). Phải cùng dạng V-ing với 'draining' và 'bringing'."
+  },
+  {
+    "id": "1.19",
+    "part": "1",
+    "question": "He really deserved the award because he performed _______ was expected of him.",
+    "options": ["much better from", "much better than", "more better than", "much better as"],
+    "correctAnwser": "much better than",
+    "desc": "Cấu trúc so sánh hơn: better than. Dùng 'much' để nhấn mạnh mức độ của so sánh hơn."
+  },
+  {
+    "id": "1.20",
+    "part": "1",
+    "question": "A politician can make a legislative proposal more _______ by giving specific examples of what its effect will be.",
+    "options": ["to understand", "understandably", "understandable", "when understood"],
+    "correctAnwser": "understandable",
+    "desc": "Cấu trúc: make + Object + Adjective (làm cho cái gì trở nên thế nào)."
+  },
+  {
+    "id": "1.21",
+    "part": "1",
+    "question": "As late as 1890, Key West, with a population of 18,000, _______ Florida's largest city.",
+    "options": ["that was", "to be", "was", "it was"],
+    "correctAnwser": "was",
+    "desc": "Chủ ngữ chính là 'Key West', cần một động từ chính được chia ở quá khứ là 'was'."
+  },
+  {
+    "id": "1.22",
+    "part": "1",
+    "question": "A mastery of calculus depends on _______ of algebra.",
+    "options": ["an understanding", "is understood", "to understand", "understand"],
+    "correctAnwser": "an understanding",
+    "desc": "Giới từ 'on' cần theo sau bởi một danh từ hoặc danh động từ. 'an understanding' (sự hiểu biết) là danh từ phù hợp."
+  },
+  {
+    "id": "1.23",
+    "part": "1",
+    "question": "_______ he was not a musician himself, Lawrence Hammond developed an electronic keyboard instrument called the Hammond organ.",
+    "options": ["Although", "That", "Despite", "For"],
+    "correctAnwser": "Although",
+    "desc": "Mệnh đề chỉ sự nhượng bộ (Mặc dù...). Cần liên từ 'Although' đi liền với một mệnh đề (S + V)."
+  },
+  {
+    "id": "1.24",
+    "part": "1",
+    "question": "Agnes De Mille's landmark musical play Oklahoma! was _______ of story, music, and dance.",
+    "options": ["successfully combined", "a successful combination", "to combine successfully", "successful combining"],
+    "correctAnwser": "a successful combination",
+    "desc": "Sau động từ to be 'was' cần một danh từ để chỉ định danh. 'a successful combination' (một sự kết hợp thành công) là đáp án đúng."
+  },
+  {
+    "id": "1.25",
+    "part": "1",
+    "question": "_______ single dialect of American English has ever become dominant.",
+    "options": ["No", "Not only a", "Not", "Nor a"],
+    "correctAnwser": "No",
+    "desc": "'No' + danh từ số ít, mang nghĩa 'không một (phương ngữ nào)...'."
+  },
+  {
+    "id": "1.26",
+    "part": "1",
+    "question": "In 1837 the University of Michigan became the first state university _______ by a board of regents elected by the voters of the state.",
+    "options": ["under the control", "it was controlled", "being controlled", "to be controlled"],
+    "correctAnwser": "under the control",
+    "desc": "Cụm giới từ 'under the control of/by...' đóng vai trò bổ ngữ mô tả trạng thái."
+  },
+  {
+    "id": "1.27",
+    "part": "1",
+    "question": "Indoor heating systems have made _______ for people to live and work comfortably in temperate climates.",
+    "options": ["it is possible", "possible", "it possible", "possibly"],
+    "correctAnwser": "it possible",
+    "desc": "Cấu trúc: make + it + adjective + for somebody + to V (làm cho điều gì có thể xảy ra đối với ai đó)."
+  },
+  {
+    "id": "1.28",
+    "part": "1",
+    "question": "Certain fish eggs contain droplets of oil, _______ to float on the surface of the water.",
+    "options": ["allowing them", "allows them", "they are allowed", "this allows them"],
+    "correctAnwser": "allowing them",
+    "desc": "Rút gọn mệnh đề quan hệ dạng chủ động (which allow them -> allowing them)."
+  },
+  {
+    "id": "1.29",
+    "part": "1",
+    "question": "Considered America's first great architect, _______ .",
+    "options": ["many of the buildings at Harvard University were designed by Henry Hobson Richardson", "Henry Hobson Richardson designed many of the buildings at Harvard University", "Harvard University has many buildings that were designed by Henry Hobson Richardson", "it was Henry Hobson Richardson who designed many of the buildings at Harvard University"],
+    "correctAnwser": "Henry Hobson Richardson designed many of the buildings at Harvard University",
+    "desc": "Phần đầu câu là cụm phân từ bổ nghĩa cho người (được coi là kiến trúc sư vĩ đại đầu tiên). Chủ ngữ của mệnh đề chính bắt buộc phải là người đó (Henry Hobson Richardson)."
+  },
+  {
+    "id": "1.30",
+    "part": "1",
+    "question": "_______ is caused by a virus was not known until 1911.",
+    "options": ["That measles", "As measles", "Measles", "What if measles"],
+    "correctAnwser": "That measles",
+    "desc": "Mệnh đề danh từ 'That measles is caused by a virus' (Sự thật là bệnh sởi do virus gây ra) làm chủ ngữ cho câu."
+  },
+  {
+    "id": "1.31",
+    "part": "1",
+    "question": "Ellen Swallow Richards became the first woman to enter, graduate from, and _______ at the Massachusetts Institute of Technology.",
+    "options": ["teach", "a teacher", "who taught", "to teach"],
+    "correctAnwser": "teach",
+    "desc": "Cấu trúc song hành (Parallelism): to + V1, V2, and V3. Động từ ở dạng nguyên thể không to là 'teach'."
+  },
+  {
+    "id": "1.32",
+    "part": "1",
+    "question": "Coins last approximately twenty times _______ paper bills.",
+    "options": ["longer", "as long", "long", "longer than"],
+    "correctAnwser": "longer than",
+    "desc": "Cấu trúc so sánh gấp nhiều lần kết hợp so sánh hơn: ... times + so sánh hơn (longer than)."
+  },
+  {
+    "id": "1.33",
+    "part": "1",
+    "question": "It has been estimated that _______ species of animals.",
+    "options": ["more than a million", "it is a million or more", "there are over a million", "are over a million of"],
+    "correctAnwser": "there are over a million",
+    "desc": "Sau 'that' cần một mệnh đề hoàn chỉnh (S + V). Cấu trúc 'there are' được sử dụng để chỉ sự tồn tại."
+  },
+  {
+    "id": "1.34",
+    "part": "1",
+    "question": "Dr. Seuss, _______ was Theodore Seuss Geisel, wrote and illustrated delightfully humorous books for children.",
+    "options": ["his real name", "who had as his real name", "with his real name", "whose real name"],
+    "correctAnwser": "whose real name",
+    "desc": "Đại từ quan hệ sở hữu 'whose' nối hai mệnh đề, thể hiện tính sở hữu (tên thật của người đó)."
+  },
+  {
+    "id": "1.35",
+    "part": "1",
+    "question": "_______ American landscape architects was Hideo Sasaki.",
+    "options": ["The most famous one of", "One of the most famous", "Of the one most famous", "The one most famous of"],
+    "correctAnwser": "One of the most famous",
+    "desc": "Cấu trúc: One of the + so sánh nhất + danh từ số nhiều (Một trong những... nhất)."
+  },
+  {
+    "id": "1.36",
+    "part": "1",
+    "question": "Most young geese leave their nests at an early age, and young snow geese are _______ exception.",
+    "options": ["not", "no", "non", "never"],
+    "correctAnwser": "no",
+    "desc": "Thành ngữ: to be no exception (không phải là ngoại lệ)."
+  },
+  {
+    "id": "1.37",
+    "part": "1",
+    "question": "After the great blizzard of 1988 in the northeastern United States, it took some _______ snow away from their homes.",
+    "options": ["days to shovel people several", "people several days to shovel", "several days people to shovel", "people to shovel several days"],
+    "correctAnwser": "people several days to shovel",
+    "desc": "Cấu trúc: It takes/took + somebody + time + to V (Mất của ai bao nhiêu thời gian để làm việc gì)."
+  },
+  {
+    "id": "1.38",
+    "part": "1",
+    "question": "Jacobson is often referred to _______ at the factory.",
+    "options": ["as the best engineer", "as being the best engineer", "being the best engineer", "as to be the best engineer"],
+    "correctAnwser": "as the best engineer",
+    "desc": "Cấu trúc bị động: be referred to as + Noun (được mệnh danh/gọi là cái gì)."
+  },
+  {
+    "id": "1.39",
+    "part": "1",
+    "question": "_______ a Form 57 must be completed.",
+    "options": ["To apply for this job", "In order to get this job", "Making application for this job", "If you want to apply for this job"],
+    "correctAnwser": "If you want to apply for this job",
+    "desc": "Để tránh lỗi 'dangling modifier' (sai thành phần được bổ nghĩa), ta cần dùng câu điều kiện mệnh đề rõ ràng chỉ người 'If you want to...' vì chủ ngữ của vế chính là vật (a Form 57)."
+  },
+  {
+    "id": "1.40",
+    "part": "1",
+    "question": "Not only _______ in the field of psychology but animal behavior is examined as well.",
+    "options": ["human behavior is studied the form", "is human behavior studied", "is studied human behavior", "human behavior"],
+    "correctAnwser": "is human behavior studied",
+    "desc": "Đảo ngữ với cấu trúc Not only ... but also: Not only + Trợ động từ/to be + S + V."
+  }
+]

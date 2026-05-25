@@ -1,0 +1,20 @@
+# Dependencies
+**/node_modules/
+
+# Build
+**/dist/
+
+# Logs & env
+*.log
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Local scripts output (optional)
+p3-flat-questions.json

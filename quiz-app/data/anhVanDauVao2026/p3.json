@@ -1,0 +1,954 @@
+[
+  {
+    "title": "PASSAGE 1",
+    "readingContent": "When I was a little girl, I spent summer evenings in my grandmother's bed holding Tilín, a little doll clown. She had given him to me when I left Puerto Rico for the United States, something to hold when I missed her. In the summers, Tilín would travel back to my grandparents' home with me. When we were there, we had a routine: My grandmother, Mima, would make me a hot chocolate and turn on the air conditioner. I would wrap myself around Mima and listen. Every night she told a different story, but each one gave me a different piece of her life, a sense of who she was and had been.\n\nMy favorite stories were about how she became a teacher and earned her master's degree in education and met my grandfather. Mima would show me black-and-white pictures of them together, and she let me read the letters Mimo wrote to her from Korea, where he fought as a soldier. I came to understand that his time in Korea was why he would wake up screaming at night, thinking the ceiling fan was a helicopter.\n\nMima's stories were about family, but they were also a window into history that no textbook could teach. As I got older and life got harder, her stories gave me strength. I told myself I came from a long line of women who had seen dark times and come out on the other side, and I firmly believed that I could do the same. Somehow those stories of sadness and endurance gave me something to hold onto in times of instability and difficulty.\n\nNow I sometimes find my mother, whom my children have named Baba, lying in bed with them, laughing about a story involving hair spray and a candle when she was a teenager. When something goes wrong for them, they will be able to look back at their parents and grandparents for interesting stories of things going wrong and, more often than not, righting themselves again.",
+    "questions": [
+      {
+        "id": "3.1",
+        "part": "3",
+        "question": "Which of the following is TRUE about Tilín?",
+        "options": [
+          "He worked at a circus.",
+          "He was brought to the United States.",
+          "He missed his grandmother.",
+          "He was the writer's brother."
+        ],
+        "correctAnwser": "He was brought to the United States.",
+        "desc": "Đoạn 1: 'She had given him to me when I left Puerto Rico for the United States...'"
+      },
+      {
+        "id": "3.2",
+        "part": "3",
+        "question": "The word \"one\" in paragraph 1 refers to",
+        "options": [
+          "chocolate.",
+          "night.",
+          "story.",
+          "piece."
+        ],
+        "correctAnwser": "story.",
+        "desc": "Đại từ 'one' thay thế cho danh từ 'story' ở vế trước: 'Every night she told a different story, but each one...'"
+      },
+      {
+        "id": "3.3",
+        "part": "3",
+        "question": "What can be inferred about the life of the writer's grandfather in Korea?",
+        "options": [
+          "It was not easy.",
+          "It was peaceful.",
+          "He had sleepless nights.",
+          "He had a mobile life as a pilot."
+        ],
+        "correctAnwser": "He had sleepless nights.",
+        "desc": "Đoạn 2: '...his time in Korea was why he would wake up screaming at night, thinking the ceiling fan was a helicopter.' (Anh ấy thường tỉnh dậy la hét vào ban đêm)."
+      },
+      {
+        "id": "3.4",
+        "part": "3",
+        "question": "What does the writer mean by saying \"they were also a window into history that no textbook could teach\" in paragraph 2?",
+        "options": [
+          "Mima's stories were about how history textbooks failed to teach students.",
+          "Mima's stories opened many opportunities of teaching history for the writer.",
+          "Mima's stories showed her view about what history textbooks should teach.",
+          "Mima's stories were about past events not described in history textbooks."
+        ],
+        "correctAnwser": "Mima's stories were about past events not described in history textbooks.",
+        "desc": "Câu này ám chỉ những câu chuyện của Mima là cánh cửa nhìn vào lịch sử thông qua những trải nghiệm cá nhân mà sách giáo khoa không hề ghi chép lại."
+      },
+      {
+        "id": "3.5",
+        "part": "3",
+        "question": "What is paragraph 3 mainly about?",
+        "options": [
+          "The writer's hard life",
+          "The writer's belief about women's roles",
+          "The value of Mima's stories for the writer",
+          "The main theme in Mima's stories"
+        ],
+        "correctAnwser": "The value of Mima's stories for the writer",
+        "desc": "Đoạn 3 nói về việc những câu chuyện của Mima đã mang lại sức mạnh, niềm tin và điểm tựa tinh thần cho tác giả như thế nào."
+      },
+      {
+        "id": "3.6",
+        "part": "3",
+        "question": "The word \"dark\" in paragraph 3 is closest in meaning to",
+        "options": [
+          "evil.",
+          "grey.",
+          "sad.",
+          "shadowy."
+        ],
+        "correctAnwser": "sad.",
+        "desc": "Từ 'dark times' (thời kỳ tăm tối) trong ngữ cảnh này mang nghĩa là những khoảng thời gian buồn bã, khó khăn (sad)."
+      },
+      {
+        "id": "3.7",
+        "part": "3",
+        "question": "Which of the following best describes the writer's attitude as expressed in paragraph 4?",
+        "options": [
+          "Appreciative",
+          "Critical",
+          "Uninterested",
+          "Worried"
+        ],
+        "correctAnwser": "Appreciative",
+        "desc": "Tác giả thể hiện thái độ trân trọng, biết ơn (Appreciative) đối với truyền thống kể chuyện của gia đình được truyền từ đời này sang đời khác."
+      },
+      {
+        "id": "3.8",
+        "part": "3",
+        "question": "Which paragraph mentions the stories that the writer liked best?",
+        "options": [
+          "Paragraph 1",
+          "Paragraph 2",
+          "Paragraph 3",
+          "Paragraph 4"
+        ],
+        "correctAnwser": "Paragraph 2",
+        "desc": "Nằm ở câu đầu tiên của đoạn 2: 'My favorite stories were about how she became a teacher...'"
+      },
+      {
+        "id": "3.9",
+        "part": "3",
+        "question": "Which of the following is NOT true according to the passage?",
+        "options": [
+          "Baba sometimes tells the children stories about her teenage years.",
+          "When the writer visited her in the summers, Mima would tell the same story every night.",
+          "The writer's grandfather sent letters to her grandmother during wartime.",
+          "In difficult times, the writer felt encouraged by the stories she had been told."
+        ],
+        "correctAnwser": "When the writer visited her in the summers, Mima would tell the same story every night.",
+        "desc": "Chi tiết này sai vì đoạn 1 viết: 'Every night she told a different story' (Mỗi đêm bà kể một câu chuyện KHÁC NHAU)."
+      },
+      {
+        "id": "3.10",
+        "part": "3",
+        "question": "Which of the following could be the best title for the passage?",
+        "options": [
+          "The family routines we share, and how they amuse us",
+          "The childhood memories I had, and how I keep them alive",
+          "The family stories I write, and what my children think",
+          "The family stories we share, and what they mean to us"
+        ],
+        "correctAnwser": "The family stories we share, and what they mean to us",
+        "desc": "Bài đọc tập trung vào việc chia sẻ các câu chuyện gia đình qua các thế hệ và ý nghĩa tinh thần to lớn của chúng đối với các thành viên."
+      }
+    ]
+  },
+  {
+    "title": "PASSAGE 2",
+    "readingContent": "In the next decade, Asian consumers are expected to account for half of global consumption growth, with a $10 trillion opportunity. All over the world, one of every two upper-middle-income and above households is expected to be in Asia, and half the transactions will come from this region. This is because people in Asia are becoming richer and earning more money, which makes them spend more. To take advantage of this growth, companies need to understand diversity and rapidly changing consumer behaviors. They will need to get to know more about Japanese insta-grannies, Indonesian Generation Z gamers, Indian small shop owners, and others. Also, many companies are focusing on people who live in cities in Asia because most of the consumption growth will happen there. About 80 percent of Asia's consumption growth is expected to be in urban areas over the next ten years. The largest 250 cities in the region will contribute two-thirds of this growth.\n\nAnother change is that across Asia, households are getting smaller. In many Asian countries, the average household size has gone down in the past 20 years. For example, in Indonesia, it went down by 10 percent, in India by 15 percent, in Vietnam by more than 20 percent, and in China by almost 30 percent from 3.6 people in 1999 to 2.6 people in 2020. More and more people are living alone. One-third of households in Advanced Asia and more than 15 percent in China are single-person ones.\n\nThis change in the number of people in households is affecting what people want to buy. For example, there is a growing market for new forms of companionship because more people are living alone. The rise in the number of individuals living alone has led, for instance, to soaring ownership of pets across Asia. In the past five years, the number of pets in China, Singapore, and Thailand has jumped by 114 percent, 12 percent, and 23 percent, respectively. AI-driven chatbot companions are proving increasingly popular with hundreds of millions of users, many of them single people.\n\nSingle people need different products. They often want food delivered to their homes, and they like smaller portions of packaged food. In Japan between 2012 and 2019, the average net weight of several fast moving consumer goods decreased by 8 percent in the case of butter to as much as 25 percent in the case of instant coffee.",
+    "questions": [
+      {
+        "id": "3.11",
+        "part": "3",
+        "question": "What is the reason for Asian consumers' expected consumption growth in the next decade?",
+        "options": [
+          "Easier transactions",
+          "More income and spending",
+          "Increased globalization",
+          "Higher number of households"
+        ],
+        "correctAnwser": "More income and spending",
+        "desc": "Đoạn 1: 'This is because people in Asia are becoming richer and earning more money, which makes them spend more.'"
+      },
+      {
+        "id": "3.12",
+        "part": "3",
+        "question": "How much are cities in Asia expected to contribute to the region's consumption growth?",
+        "options": [
+          "Two-fifths",
+          "About half",
+          "Two-thirds",
+          "About four-fifths"
+        ],
+        "correctAnwser": "Two-thirds",
+        "desc": "Đoạn 1: 'The largest 250 cities in the region will contribute two-thirds of this growth.'"
+      },
+      {
+        "id": "3.13",
+        "part": "3",
+        "question": "What is paragraph 2 mainly about?",
+        "options": [
+          "Households in Advanced Asia",
+          "Single-person households in China",
+          "The decrease in Asian household size",
+          "Why more people are living alone"
+        ],
+        "correctAnwser": "The decrease in Asian household size",
+        "desc": "Câu chủ đề đoạn 2: 'Another change is that across Asia, households are getting smaller.' Đoạn này chủ yếu đưa số liệu về sự giảm quy mô hộ gia đình."
+      },
+      {
+        "id": "3.14",
+        "part": "3",
+        "question": "The word \"jumped\" in paragraph 3 is closest in meaning to",
+        "options": [
+          "increased suddenly.",
+          "moved slowly.",
+          "decreased quickly.",
+          "changed constantly."
+        ],
+        "correctAnwser": "increased suddenly.",
+        "desc": "Trong ngữ cảnh số lượng thú cưng tăng mạnh (114%, 23%), 'jumped' có nghĩa là tăng vọt, tăng đột ngột (increased suddenly)."
+      },
+      {
+        "id": "3.15",
+        "part": "3",
+        "question": "The word \"They\" in paragraph 4 refers to",
+        "options": [
+          "companions.",
+          "users.",
+          "single people.",
+          "products."
+        ],
+        "correctAnwser": "single people.",
+        "desc": "Đại từ 'They' thay thế cho 'Single people' ở câu ngay phía trước: 'Single people need different products. They often want...'"
+      },
+      {
+        "id": "3.16",
+        "part": "3",
+        "question": "Why are butter and instant coffee mentioned in the last paragraph?",
+        "options": [
+          "To explain why certain products are popular among single people",
+          "To give examples of goods with smaller net weight",
+          "To suggest packaged food that single people should use",
+          "To contrast with foods often delivered to Asian people's homes"
+        ],
+        "correctAnwser": "To give examples of goods with smaller net weight",
+        "desc": "Bơ và cà phê hòa tan được đưa ra làm ví dụ minh chứng cho việc các sản phẩm tiêu dùng đang bị giảm trọng lượng tịnh (smaller net weight) để phục vụ người sống độc thân."
+      },
+      {
+        "id": "3.17",
+        "part": "3",
+        "question": "Which of the following is NOT mentioned in the passage?",
+        "options": [
+          "The change in pet ownership in Asia",
+          "Countries where households are getting smaller",
+          "What companies should do to benefit from Asia's consumption growth",
+          "Reasons why Al-driven products are used by many single people"
+        ],
+        "correctAnwser": "Reasons why Al-driven products are used by many single people",
+        "desc": "Bài viết chỉ đề cập rằng các chatbot AI ngày càng phổ biến với người độc thân (proving increasingly popular), nhưng KHÔNG giải thích lý do tại sao họ lại dùng chúng."
+      },
+      {
+        "id": "3.18",
+        "part": "3",
+        "question": "Which paragraph mentions consumers of different nationalities with distinct behaviors?",
+        "options": [
+          "Paragraph 1",
+          "Paragraph 2",
+          "Paragraph 3",
+          "Paragraph 4"
+        ],
+        "correctAnwser": "Paragraph 1",
+        "desc": "Đoạn 1 có nhắc đến các nhóm người tiêu dùng đa dạng như: 'Japanese insta-grannies, Indonesian Generation Z gamers, Indian small shop owners...'"
+      },
+      {
+        "id": "3.19",
+        "part": "3",
+        "question": "Which of the following best describes the tone of the passage?",
+        "options": [
+          "Doubtful",
+          "Excited",
+          "Objective",
+          "Serious"
+        ],
+        "correctAnwser": "Objective",
+        "desc": "Giọng văn của bài là khách quan (Objective), chủ yếu đưa ra các số liệu thống kê, dự báo và thực trạng về thị trường tiêu dùng Châu Á."
+      },
+      {
+        "id": "3.20",
+        "part": "3",
+        "question": "What is the purpose of the passage?",
+        "options": [
+          "To describe Asian future consumers",
+          "To encourage more spending in Asia",
+          "To comment on Asia's changing markets",
+          "To propose policies regarding Asia's economy"
+        ],
+        "correctAnwser": "To describe Asian future consumers",
+        "desc": "Mục đích của bài viết là mô tả chân dung, đặc điểm và hành vi tiêu dùng của nhóm khách hàng Châu Á trong tương lai."
+      }
+    ]
+  },
+  {
+    "title": "PASSAGE 3",
+    "readingContent": "Google's artificial intelligence (AI) arm DeepMind has developed a system which allows forecasters to predict the chance of rain within the next couple of hours more precisely. But people have been attempting to work out whether it is going to chuck it down or not for thousands of years. As far back as 650BC, the Babylonians, who lived in what is now Iraq and Syria, tried to predict the weather based on cloud patterns and the movements and positions of stars. By 350BC the Greek philosopher Aristotle was describing weather patterns in texts, while even Jesus Christ himself attempted to forecast the weather in the New Testament.\n\nThe science of weather forecasting truly began in the 19th century, with the invention of the electric telegraph in 1835. Soon after, the Royal Navy officer Francis Beaufort developed the wind force scale. It would later become known as the Beaufort scale. In October 1859, the Royal Charter ship sank in a storm off the north coast of Anglesey. This inspired Robert FitzRoy, a member of Beaufort's Royal Navy, to develop weather charts. He described these as \"forecasts\", the first known usage of the term. He then helped set up 15 land stations, which used a telegraph to send daily weather reports. This was how a service which gave warnings about very strong winds was created. In 1861, the first daily weather forecasts were published in the Times. [A]\n\nIn the 20th century, forecasters knew more about how the atmosphere works, which led to today's weather prediction using numbers. Since then, forecasters have used data relating to pressure, air speed, rainfall and temperature. [B] Hannah Fry, a professor at University College London, explained that 21st-century weather forecasting services all interpret the data differently. [C] This leads to forecasts that change very often. Writing in the New Yorker magazine in 2019, she said: \"They don't yield sensible answers like 'it will rain on Wednesday in Soho' or 'hailstorms will start at 2pm'.\" She added: \"The apps differ wildly in how they handle all that uncertainty, and some will be much more pessimistic than others.\"\n\nIt is very likely that as technology continues to develop, there will be more observations. This will help provide forecasts for smaller areas at a greater speed. [D]",
+    "questions": [
+      {
+        "id": "3.21",
+        "part": "3",
+        "question": "The phrase \"chuck it down\" in the first paragraph is closest in meaning to",
+        "options": [
+          "be rainy.",
+          "be stormy.",
+          "be sunny.",
+          "be freezing."
+        ],
+        "correctAnwser": "be rainy.",
+        "desc": "Thành ngữ 'chuck it down' trong tiếng Anh (đặc biệt là Anh-Anh) có nghĩa là mưa rất to (be rainy/rain heavily)."
+      },
+      {
+        "id": "3.22",
+        "part": "3",
+        "question": "What point does the writer make in the first paragraph?",
+        "options": [
+          "Google's Al can predict the weather most accurately compared with other technologies.",
+          "The Babylonians were the first to look up at the night sky to find weather patterns.",
+          "People have enduring interest in understanding and predicting the weather.",
+          "Ancient philosophers were successful in writing about weather patterns."
+        ],
+        "correctAnwser": "People have enduring interest in understanding and predicting the weather.",
+        "desc": "Đoạn 1 chỉ ra rằng con người đã cố gắng dự đoán thời tiết từ hàng ngàn năm trước (Babylonians, Aristotle, Chúa Jesus), thể hiện sự quan tâm bền bỉ của con người với vấn đề này."
+      },
+      {
+        "id": "3.23",
+        "part": "3",
+        "question": "The word \"This\" in paragraph 3 refers to",
+        "options": [
+          "FitzRoy's first use of the term \"forecasts\".",
+          "a telegraph.",
+          "daily weather reports.",
+          "the setting up of 15 land stations that sent daily weather reports."
+        ],
+        "correctAnwser": "the setting up of 15 land stations that sent daily weather reports.",
+        "desc": "'This' thay thế cho toàn bộ hành động thiết lập 15 trạm mặt đất sử dụng điện báo để gửi báo cáo thời tiết hàng ngày ở câu trước."
+      },
+      {
+        "id": "3.24",
+        "part": "3",
+        "question": "The word \"They\" in paragraph 5 refers to",
+        "options": [
+          "weather forecasting services.",
+          "the data.",
+          "forecasts.",
+          "answers."
+        ],
+        "correctAnwser": "weather forecasting services.",
+        "desc": "'They' ở đây dùng để chỉ các dịch vụ/ứng dụng dự báo thời tiết (weather forecasting services) được nhắc đến ở câu trước đó của Hannah Fry."
+      },
+      {
+        "id": "3.25",
+        "part": "3",
+        "question": "In which space (marked A, B, C and D in the passage) will the following sentence fit? \"These are collected from around the world and analyzed by supercomputers.\"",
+        "options": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "correctAnwser": "[B]",
+        "desc": "Đại từ 'These' thay thế cho 'data relating to pressure, air speed, rainfall and temperature' ở câu trước chỗ trống [B]."
+      },
+      {
+        "id": "3.26",
+        "part": "3",
+        "question": "What does Hannah Fry say about today's weather forecasting apps?",
+        "options": [
+          "Their approach makes people feel uncertain and pessimistic.",
+          "They consistently provide reliable and optimistic forecasts.",
+          "They vary in their treatment of uncertainty and degree of pessimism.",
+          "They adopt similar approaches in handling uncertainty."
+        ],
+        "correctAnwser": "They vary in their treatment of uncertainty and degree of pessimism.",
+        "desc": "Đoạn 5: 'The apps differ wildly in how they handle all that uncertainty, and some will be much more pessimistic than others.' (Các ứng dụng khác nhau rất nhiều trong cách xử lý...)"
+      },
+      {
+        "id": "3.27",
+        "part": "3",
+        "question": "Which of the following best paraphrases the sentence \"It is very likely that as technology continues to develop, there will be more observations\" in the last paragraph?",
+        "options": [
+          "More observations are very likely to result in technological development.",
+          "The development of technology will certainly lead to more observations.",
+          "As technology continues to advance, an increase in observations is highly probable.",
+          "With technological advancements, fewer observations will likely occur."
+        ],
+        "correctAnwser": "As technology continues to advance, an increase in observations is highly probable.",
+        "desc": "Câu gốc có nghĩa: Rất có thể khi công nghệ tiếp tục phát triển, sẽ có nhiều quan sát hơn. Lựa chọn C diễn đạt lại chuẩn xác ý nghĩa này."
+      },
+      {
+        "id": "3.28",
+        "part": "3",
+        "question": "Which of the following is TRUE according to the passage?",
+        "options": [
+          "The first weather service gave warnings about strong winds and heavy snow.",
+          "The wind force scale was developed by a group of Royal Navy officers.",
+          "Modern-day weather forecasting results from better understanding of numbers.",
+          "The 19th century marked the beginning of the science of weather forecasting."
+        ],
+        "correctAnwser": "The 19th century marked the beginning of the science of weather forecasting.",
+        "desc": "Đoạn 3: 'The science of weather forecasting truly began in the 19th century, with the invention of the electric telegraph in 1835.'"
+      },
+      {
+        "id": "3.29",
+        "part": "3",
+        "question": "What is the passage mainly about?",
+        "options": [
+          "The history and evolution of weather forecasting",
+          "The science behind modern weather forecasting",
+          "The effects of incorrect weather forecasting",
+          "The impact of technology on future weather forecasting"
+        ],
+        "correctAnwser": "The history and evolution of weather forecasting",
+        "desc": "Toàn bộ bài đọc miêu tả lịch sử hình thành và sự tiến hóa của việc dự báo thời tiết từ thời Babylon cho tới việc sử dụng AI hiện tại."
+      },
+      {
+        "id": "3.30",
+        "part": "3",
+        "question": "Where does the passage most likely come from?",
+        "options": [
+          "A novel",
+          "A research publication",
+          "An encyclopedia",
+          "A newspaper"
+        ],
+        "correctAnwser": "A newspaper",
+        "desc": "Giọng văn cung cấp thông tin, trích dẫn chuyên gia và định dạng bài viết mang phong cách của một bài báo trên tin tức/tạp chí (A newspaper/magazine)."
+      }
+    ]
+  },
+  {
+    "title": "PASSAGE 4",
+    "readingContent": "People's chances of being vegetarian seem to be affected by several genetic variants. Out of the three most important genes discovered, two appear to be related to how our bodies handle fat. This hints that some people find it easier to give up meat because they naturally produce certain fat molecules, says Nabeel Yaseen at Northwestern University in Chicago. \"Maybe there's some fat that's essential for some people to have in their diet but not for others,\" he says.\n\nTo see if genes also affect vegetarianism, Yaseen and his team used data from the UK Biobank, a large study where people shared information about their lifestyle and health, and had their DNA analyzed. [A] They looked at about 5300 people who said they were strict vegetarians and another 330,000 people who were meat eaters.\n\nThree gene variants were more common in vegetarians. [B] Two of them, NPC1 and RMC1, are linked to how the body handles cholesterol and certain fatty molecules called glycolipids. The third gene, called RIOK3, has various functions, including affecting the immune system.\n\n[C] But one of the main differences between animal-based foods and plant-based ones is the type of fats or oils they contain, known as lipids. Yaseen and his colleagues think that some people may function better on a vegetarian diet because they can produce specific lipid molecules found in meat more effectively. People who try vegetarianism but give up may be doing so because the body becomes deficient in the postulated essential lipids, says Yaseen. \"They decide that this diet is not for them or gradually creep back into an omnivore diet. Some people might think they just don't have the willpower.\"\n\nYaseen says, however, that another possibility is that the apparently vegetarianism-promoting gene variants affect people's taste. [D] \"A lot of information about genes is yet to be known,\" he says. Albert Koulman at the University of Cambridge says most research into how food nutrients influence satiety and food choices has focused on proteins rather than fats. \"We don't know enough about [this idea] to either accept or dismiss it,\" he says.\n\nRichard McIlwain at the UK Vegetarian Society says the number of vegetarians has been rising in recent years, almost doubling in the UK between 2012 and 2019. \"That would seem to suggest something other than underlying genetic factors are at play,\" he says. \"People go vegetarian because, more and more, they are concerned about climate, about animal welfare or about their health. Psychological factors, such as tradition, education and awareness of animal suffering in food production, and 'taste preferences' are far more important determinants of vegetarianism than any physiological factors,\" says McIlwain.",
+    "questions": [
+      {
+        "id": "3.31",
+        "part": "3",
+        "question": "What does Yaseen suggest about vegetarians in the first paragraph?",
+        "options": [
+          "Vegetarians have genetic variants that make it easier for them to give up meat.",
+          "Genetic variants have no impact on a person's likelihood of becoming a vegetarian.",
+          "All vegetarians produce three most essential fat molecules naturally.",
+          "There is no genetic influence on a person's likelihood to eat a balanced diet."
+        ],
+        "correctAnwser": "Vegetarians have genetic variants that make it easier for them to give up meat.",
+        "desc": "Đoạn 1: 'This hints that some people find it easier to give up meat because they naturally produce certain fat molecules...'"
+      },
+      {
+        "id": "3.32",
+        "part": "3",
+        "question": "Which of the following is TRUE about Yaseen and his team's study?",
+        "options": [
+          "It started prior to the UK Biobank's study.",
+          "It involved handling a huge amount of data.",
+          "It analyzed equal numbers of vegetarians and meat eaters.",
+          "It revealed three gene variants common in meat eaters."
+        ],
+        "correctAnwser": "It involved handling a huge amount of data.",
+        "desc": "Đoạn 2: Họ đã phân tích dữ liệu của khoảng 5300 người ăn chay trường và 330,000 người ăn thịt, cho thấy khối lượng dữ liệu khổng lồ."
+      },
+      {
+        "id": "3.33",
+        "part": "3",
+        "question": "In which space (marked A, B, C and D in the passage) will the following sentence fit? \"It isn't known exactly how these genes could relate to vegetarianism.\"",
+        "options": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "correctAnwser": "[C]",
+        "desc": "Câu này đóng vai trò chuyển ý, nối tiếp ý đoạn trước đó (đã tìm ra 3 gen) với đoạn sau (giải thích giả thuyết về lipid/chất béo)."
+      },
+      {
+        "id": "3.34",
+        "part": "3",
+        "question": "The phrase \"strict vegetarians\" in paragraph 2 possibly means",
+        "options": [
+          "vegetarians who closely follow dietary restrictions of vegetarianism.",
+          "vegetarians who dislike meat eaters.",
+          "vegetarians who want their family to follow vegetarianism.",
+          "vegetarians who have a busy lifestyle."
+        ],
+        "correctAnwser": "vegetarians who closely follow dietary restrictions of vegetarianism.",
+        "desc": "'Strict vegetarians' nghĩa là những người ăn chay trường, tuân thủ nghiêm ngặt các hạn chế ăn kiêng của chế độ ăn chay."
+      },
+      {
+        "id": "3.35",
+        "part": "3",
+        "question": "The phrase \"creep back into an omnivore diet\" in paragraph 4 possibly means?",
+        "options": [
+          "quickly decide to follow an omnivore diet.",
+          "eventually become scared of an omnivore diet.",
+          "patiently follow an omnivore diet.",
+          "slowly return to an omnivore diet."
+        ],
+        "correctAnwser": "slowly return to an omnivore diet.",
+        "desc": "'Creep back into' mang nghĩa đen là bò/trườn quay trở lại, ám chỉ việc quay trở lại chế độ ăn tạp (omnivore diet) một cách từ từ."
+      },
+      {
+        "id": "3.36",
+        "part": "3",
+        "question": "According to Yaseen, what might be one reason why some people give up vegetarianism?",
+        "options": [
+          "There are high levels of essential lipids in their bodies.",
+          "They do not know enough information about this diet.",
+          "They decide that this diet does not taste as good as an omnivore one.",
+          "Their taste preferences could be influenced by specific gene variants."
+        ],
+        "correctAnwser": "Their taste preferences could be influenced by specific gene variants.",
+        "desc": "Đoạn 5: 'Yaseen says, however, that another possibility is that the apparently vegetarianism-promoting gene variants affect people's taste.'"
+      },
+      {
+        "id": "3.37",
+        "part": "3",
+        "question": "What can be inferred about Koulman from the passage?",
+        "options": [
+          "His research focuses on proteins found in different food choices.",
+          "He believes there should be more studies on the effects of fats.",
+          "He thinks we lack sufficient knowledge to make an informed judgment.",
+          "He doubts whether people will be willing to support research into fats."
+        ],
+        "correctAnwser": "He thinks we lack sufficient knowledge to make an informed judgment.",
+        "desc": "Đoạn 6: 'We don't know enough about [this idea] to either accept or dismiss it, he says.'"
+      },
+      {
+        "id": "3.38",
+        "part": "3",
+        "question": "The word \"That\" in paragraph 7 refers to",
+        "options": [
+          "the UK Vegetarian Society.",
+          "the fact that the number of vegetarians has been rising in recent years.",
+          "the number of vegetarians in the UK in 2012.",
+          "the number of vegetarians in the UK in 2019."
+        ],
+        "correctAnwser": "the fact that the number of vegetarians has been rising in recent years.",
+        "desc": "Đại từ 'That' thay thế cho toàn bộ sự việc vừa được nhắc đến ở câu trước: số lượng người ăn chay tăng gần gấp đôi trong những năm gần đây."
+      },
+      {
+        "id": "3.39",
+        "part": "3",
+        "question": "What does McIlwain say about reasons why people go vegetarian?",
+        "options": [
+          "Physiological factors are as important as psychological ones in determining vegetarianism.",
+          "Vegetarianism makes people become increasingly concerned about traditional food production.",
+          "People follow a vegetarian diet because they are influenced by genetic factors and physical health.",
+          "Psychological factors are more significant than physiological ones in determining vegetarianism."
+        ],
+        "correctAnwser": "Psychological factors are more significant than physiological ones in determining vegetarianism.",
+        "desc": "Đoạn cuối: McIlwain nhấn mạnh rằng các yếu tố tâm lý (truyền thống, giáo dục, sở thích, phúc lợi động vật) quan trọng hơn nhiều so với bất kỳ yếu tố sinh lý học nào."
+      },
+      {
+        "id": "3.40",
+        "part": "3",
+        "question": "Which of the following conclusions can be drawn from the passage?",
+        "options": [
+          "Two genes involved in fat metabolism have been linked with vegetarian diets.",
+          "Yaseen suggests people listen to how their bodies work before choosing a diet.",
+          "Vegetarians are physically and genetically healthier than meat eaters.",
+          "Determination is the most important factor in following vegetarianism."
+        ],
+        "correctAnwser": "Two genes involved in fat metabolism have been linked with vegetarian diets.",
+        "desc": "Đoạn 1 và 3 đề cập đến việc phát hiện ra 3 gen, trong đó 2 gen dường như có liên quan trực tiếp đến cách cơ thể xử lý chất béo (fat metabolism)."
+      }
+    ]
+  },
+  {
+    "title": "PASSAGE 5",
+    "readingContent": "When her five daughters were young, Helene An always told them that there was strength in unity. To show this, she held up one chopstick, representing one person. Then she easily broke it into two pieces. Next, she tied several chopsticks together, representing a family. She showed the girls it was hard to break the tied chopsticks. This lesson about family unity stayed with the daughters as they grew up.\n\nHelene An and her family own a multi-million-dollar restaurant business in California. However, when Helene and her husband Danny left their home in Vietnam in 1975, they didn't have much money. They moved their family to San Francisco. There they joined Danny's mother, who owned a small Italian sandwich shop. The Ans began with only a small idea and never dreamed of the success they have today.\n\nSoon after the Ans' arrival in the United States, Helene and her mother-in-law, Diana, changed the sandwich shop into a small Vietnamese restaurant. They named it Green Dragon, which symbolizes good luck in Vietnam. The restaurant was very popular, and they expanded from 20 seats to 70. The five daughters helped work in the restaurant when they were young. Their mother told them that they all had to work hard to reach their goals and make their family stronger. Helene did not want her daughters to always work in the family business because she thought it was too hard.\n\nEventually the girls all graduated from college and went away to work for themselves, but one by one, the daughters returned to work in the family business. [A] They opened new restaurants in San Francisco and in Beverly Hills, a wealthy area in Los Angeles. [B] Over the years, some ideas were successful, but others were not. [C] Even though family members sometimes disagreed with each other, they worked together to make the business successful. [D] Daughter Elizabeth explains, \"Our mother taught us that to succeed we must have unity, and to have unity we must have peace. Without the strength of the family, there is no business. So even when we don't agree, we are willing to try a new idea.\"\n\nTheir expanding business became a large corporation in 1996, with three generations of Ans working together. Elizabeth says, \"If you're going to work as a family, you have to know what you're good at. We work well together because we have different strengths.\" Even the grandchildren help out.\n\nNow the Ans' Corporation makes more than $20 million each year. Although they began with a small restaurant, they had big dreams, and they worked together. Now they are a big success. Helene says, \"In Vietnam, I didn't have to do anything for myself. Here, I've had to do everything. But I was never unhappy because every day I could see all the members of my family, and that gave me courage to do more. This has been our greatest fortune, to work together as a family.\"",
+    "questions": [
+      {
+        "id": "3.41",
+        "part": "3",
+        "question": "Why did Helene An try to break the chopsticks in front of her daughters?",
+        "options": [
+          "To show that unity can create strength",
+          "To show that chopsticks are common in Vietnamese culture",
+          "To show that each person has their own strength",
+          "To show that chopsticks are hard to break"
+        ],
+        "correctAnwser": "To show that unity can create strength",
+        "desc": "Đoạn 1: 'When her five daughters were young, Helene An always told them that there was strength in unity. To show this, she held up one chopstick...'"
+      },
+      {
+        "id": "3.42",
+        "part": "3",
+        "question": "What did the author mean by saying \"The Ans began with only a small idea and never dreamed of the success they have today\" in paragraph 2?",
+        "options": [
+          "The Ans started with a small idea in order to be successful.",
+          "Because of starting with a small idea, the Ans only dreamed of their success.",
+          "The Ans' success was beyond their expectations.",
+          "The Ans' success was imaginable."
+        ],
+        "correctAnwser": "The Ans' success was beyond their expectations.",
+        "desc": "Câu này ngụ ý rằng gia đình Ans bắt đầu từ điều nhỏ nhặt và chưa bao giờ dám mơ (never dreamed) tới thành công lớn như hiện tại, tức là thành công đã vượt ngoài mong đợi."
+      },
+      {
+        "id": "3.43",
+        "part": "3",
+        "question": "What can be inferred from the passage about the Ans' first Vietnamese restaurant?",
+        "options": [
+          "It was named \"Good Luck\".",
+          "It wasn't located in San Francisco.",
+          "It used to be a sandwich shop.",
+          "Helene's mother-in-law sold it to the Ans."
+        ],
+        "correctAnwser": "It used to be a sandwich shop.",
+        "desc": "Đoạn 3: '...Helene and her mother-in-law, Diana, changed the sandwich shop into a small Vietnamese restaurant.'"
+      },
+      {
+        "id": "3.44",
+        "part": "3",
+        "question": "Which of the following can best replace the word \"expanded\" in paragraph 3?",
+        "options": [
+          "Built",
+          "Increased",
+          "Changed",
+          "Moved"
+        ],
+        "correctAnwser": "Increased",
+        "desc": "Từ 'expanded' mang nghĩa mở rộng (từ 20 chỗ ngồi lên 70 chỗ). Trong các lựa chọn, 'Increased' (Tăng lên) là từ có ý nghĩa gần nhất."
+      },
+      {
+        "id": "3.45",
+        "part": "3",
+        "question": "Which of the following does the word \"it\" in paragraph 3 refer to?",
+        "options": [
+          "Working in the family business",
+          "Graduating from college",
+          "Working hard to reach the goals",
+          "Making their family stronger"
+        ],
+        "correctAnwser": "Working in the family business",
+        "desc": "Đại từ 'it' ở câu cuối đoạn 3 thay thế cho cụm từ 'always work in the family business' ở vế ngay trước đó."
+      },
+      {
+        "id": "3.46",
+        "part": "3",
+        "question": "Which of the following is TRUE about the Ans' five daughters?",
+        "options": [
+          "They didn't help in the family restaurant when they were young.",
+          "They stopped working for the family business for a while.",
+          "They couldn't continue higher education.",
+          "They didn't follow their mother's advice."
+        ],
+        "correctAnwser": "They stopped working for the family business for a while.",
+        "desc": "Đoạn 4: '...the girls all graduated from college and went away to work for themselves, but one by one, the daughters returned...' (Họ đã đi làm riêng một thời gian trước khi quay về)."
+      },
+      {
+        "id": "3.47",
+        "part": "3",
+        "question": "In which space (marked A, B, C and D in the passage) will the following sentence fit? \"They have new names and different styles chosen by the daughters.\"",
+        "options": [
+          "[A]",
+          "[B]",
+          "[C]",
+          "[D]"
+        ],
+        "correctAnwser": "[B]",
+        "desc": "Câu này bổ sung chi tiết trực tiếp cho câu phía trước chỗ trống [B]: 'They opened new restaurants in San Francisco and in Beverly Hills...' ('They' ở câu chèn vào thay thế cho 'new restaurants')."
+      },
+      {
+        "id": "3.48",
+        "part": "3",
+        "question": "According to the passage, what problem did the Ans' family business have?",
+        "options": [
+          "Family members occasionally had disagreements.",
+          "Family members could hardly find peaceful time for themselves.",
+          "There were not enough seats for customers.",
+          "The new restaurants in Beverly Hills were not successful."
+        ],
+        "correctAnwser": "Family members occasionally had disagreements.",
+        "desc": "Đoạn 4: 'Even though family members sometimes disagreed with each other...'"
+      },
+      {
+        "id": "3.49",
+        "part": "3",
+        "question": "Which of the following is NOT mentioned as a factor leading to the Ans' success?",
+        "options": [
+          "Good luck",
+          "Members' cooperation",
+          "Family unity",
+          "Individuals' different strengths"
+        ],
+        "correctAnwser": "Good luck",
+        "desc": "Bài viết nhấn mạnh vào sự đoàn kết (unity), hợp tác và phát huy thế mạnh cá nhân (different strengths), không đề cập đến may mắn ('good luck' chỉ là ý nghĩa tên nhà hàng)."
+      },
+      {
+        "id": "3.50",
+        "part": "3",
+        "question": "According to the passage, what does Helene An consider the greatest fortune?",
+        "options": [
+          "Having to do all the jobs",
+          "Working with her family members",
+          "Earning millions of dollars each year",
+          "Having big dreams for her family business"
+        ],
+        "correctAnwser": "Working with her family members",
+        "desc": "Đoạn cuối: 'This has been our greatest fortune, to work together as a family.'"
+      }
+    ]
+  },
+  {
+    "title": "PASSAGE 6",
+    "readingContent": "Japan, the world's third largest economy, has been experiencing the issue of population aging to an unprecedented degree. More than 20 percent of Japan's population is over 65 years old, the highest proportion in the world. By 2030, one in every three people will be 65 or older, and one in five people 75 plus years old. The rapid aging process in Japan is striking because of the high rate of economic growth and changes in family and social structures in the post-war period.\n\nThe decline in Japan's fertility rate has been attributed to several factors such as changing lifestyles, people marrying later in life or not marrying at all, and the economic insecurity of the younger generation. Increasing life expectancy is another driving force behind the aging trend. Fifty years ago, life expectancy at birth was about 72 years; it has since climbed to 84 years.\n\nThere are two fundamental aspects behind Japan's aging population. One aspect is the increase in the proportion of the elderly in the total population. The other is the slower growth of the population, arising directly from the declining fertility rate. The former affects Japan's economic performance by increasing the social security burden and benefits. The latter has a direct impact on economic growth by reducing the labor force, which is a major factor in production. \"A rapidly aging population and shrinking labour force are hampering growth,\" warned the IMF in its latest country report on Japan. The IMF also calculated that the impact of aging could drag down Japan's average annual GDP growth by 1 percentage point over the next three decades.\n\nThe causal effect of aging is leaving its mark on the macroeconomy of Japan, especially the labor force and capital accumulation. Due to the nation's aging and shrinking population, there is an increased need to address the labor shortage. People eventually retire and leave the workforce as they start aging, and at present, there are not enough young people in Japan to fill this vacuum owing to the decline in the fertility rate as well. This further implies that some of Japan's big industries - like motor vehicles and electronics - do not possess the manpower to continue at the current level of production. If Japan cannot maintain its levels of production, it may subsequently lose its spot as the third largest economy in the world.\n\nThe issue of aging is also likely to make the seniority system untenable among the labor force, in which wages increase in proportion to length of service with a company. This leads to fewer promotion opportunities and also damages workers' morale. Due to a decrease in the working age population, Japan also hopes to see higher female labor force participation under tightening labor market conditions. It is currently pursuing such a path, which has been called \"Womenomics,\" where companies are pressured and incentivized to hire more women and give more leadership positions to women.",
+    "questions": [
+      {
+        "id": "3.51",
+        "part": "3",
+        "question": "The statistics about Japan's population show that ...",
+        "options": [
+          "more than one-fifth of its population is over 65 years old.",
+          "people often die at 84 years old.",
+          "20% of people live up to 75 years old.",
+          "the number of old people will decline by 2030."
+        ],
+        "correctAnwser": "more than one-fifth of its population is over 65 years old.",
+        "desc": "Đoạn 1: 'More than 20 percent of Japan's population is over 65 years old...' (hơn 20% tương đương với hơn một phần năm - one-fifth)."
+      },
+      {
+        "id": "3.52",
+        "part": "3",
+        "question": "All of the following are factors contributing to the decline in Japan's fertility rate EXCEPT for",
+        "options": [
+          "changing lifestyles.",
+          "young people's lack of money.",
+          "higher life expectancy.",
+          "late marriages."
+        ],
+        "correctAnwser": "higher life expectancy.",
+        "desc": "Tuổi thọ tăng cao (higher life expectancy) là nguyên nhân gây già hóa dân số chứ không phải là nguyên nhân làm giảm tỷ lệ sinh (fertility rate)."
+      },
+      {
+        "id": "3.53",
+        "part": "3",
+        "question": "According to the passage, Japan's aging population...",
+        "options": [
+          "is partly caused by the slower growth of the population.",
+          "implies the dominance of elderly over young people.",
+          "is a consequence of economic growth.",
+          "just appeared after the war."
+        ],
+        "correctAnwser": "is partly caused by the slower growth of the population.",
+        "desc": "Đoạn 3: 'There are two fundamental aspects behind Japan's aging population. [...] The other is the slower growth of the population, arising directly from the declining fertility rate.'"
+      },
+      {
+        "id": "3.54",
+        "part": "3",
+        "question": "Which of the following is NOT an effect of the aging population?",
+        "options": [
+          "Compounding GDP growth",
+          "Increasing the social security burden",
+          "Building a more beneficial society",
+          "Decreasing the workforce"
+        ],
+        "correctAnwser": "Building a more beneficial society",
+        "desc": "Bài viết chỉ nhắc tới các tác động tiêu cực như giảm GDP, tăng gánh nặng an sinh xã hội, giảm lực lượng lao động. KHÔNG đề cập đến việc 'xây dựng một xã hội có lợi hơn'."
+      },
+      {
+        "id": "3.55",
+        "part": "3",
+        "question": "What does the author mean by saying \"there are not enough young people in Japan to fill this vacuum\"?",
+        "options": [
+          "Job vacancies for young people to fill are abundant.",
+          "Young people cannot handle the amount of work left by the retired workforce.",
+          "Current young people cannot solve problems left by retired people.",
+          "Aging people who leave the workforce outnumber available young people."
+        ],
+        "correctAnwser": "Aging people who leave the workforce outnumber available young people.",
+        "desc": "Nghĩa là số lượng người trẻ không đủ để lấp đầy khoảng trống lao động do lớp người già nghỉ hưu để lại (số lượng người già nghỉ hưu áp đảo số người trẻ)."
+      },
+      {
+        "id": "3.56",
+        "part": "3",
+        "question": "If the issue of labour shortage is not solved,",
+        "options": [
+          "production volume may be reduced.",
+          "fertility rate may further decline.",
+          "Japan's economy is likely to be undervalued.",
+          "industries like motor vehicles and electronics may be eliminated."
+        ],
+        "correctAnwser": "production volume may be reduced.",
+        "desc": "Đoạn 5: 'This further implies that some of Japan's big industries... do not possess the manpower to continue at the current level of production.'"
+      },
+      {
+        "id": "3.57",
+        "part": "3",
+        "question": "According to the passage, which of the following is NOT true about the current seniority system?",
+        "options": [
+          "There are fewer chances of being promoted.",
+          "It causes workers' inappropriate behaviours.",
+          "The longer people work for their companies, the higher their wages are.",
+          "It may extinguish employees' enthusiasm."
+        ],
+        "correctAnwser": "It causes workers' inappropriate behaviours.",
+        "desc": "Chế độ thâm niên (seniority system) làm giảm cơ hội thăng tiến và phá hủy tinh thần (damages workers' morale) chứ bài không nói là nó gây ra 'những hành vi không phù hợp'."
+      },
+      {
+        "id": "3.58",
+        "part": "3",
+        "question": "\"Womenomics\" means ...",
+        "options": [
+          "women employees would outnumber their male counterparts.",
+          "more women are encouraged to join the labour force.",
+          "fewer women will hold important positions.",
+          "there would be a balance between men and women in the workforce."
+        ],
+        "correctAnwser": "more women are encouraged to join the labour force.",
+        "desc": "Đoạn cuối: 'Womenomics' là chính sách mà trong đó các công ty bị gây áp lực hoặc được khuyến khích thuê nhiều phụ nữ hơn và trao cho họ các vị trí lãnh đạo."
+      },
+      {
+        "id": "3.59",
+        "part": "3",
+        "question": "Which of the following is the word \"incentivized\" in the last paragraph is closest in meaning to?",
+        "options": [
+          "Forced",
+          "Facilitated",
+          "Threatened",
+          "Encouraged"
+        ],
+        "correctAnwser": "Encouraged",
+        "desc": "Từ 'incentivized' mang nghĩa là được khuyến khích, được tạo động lực bằng lợi ích (đồng nghĩa với Encouraged)."
+      },
+      {
+        "id": "3.60",
+        "part": "3",
+        "question": "What is the best title of the text?",
+        "options": [
+          "World's aging population: Causes and effects",
+          "Solutions to Japan's aging population",
+          "Effects of Japan's aging society on its economy",
+          "Changes in Japan's population proportion"
+        ],
+        "correctAnwser": "Effects of Japan's aging society on its economy",
+        "desc": "Bài viết tập trung phân tích nguyên nhân và đặc biệt là hệ lụy sâu sắc của việc già hóa dân số đối với nền kinh tế và lực lượng lao động của Nhật Bản."
+      }
+    ]
+  },
+  {
+    "title": "PASSAGE 7",
+    "readingContent": "Every place in the world, except Antarctica, has rock art, but Africa has more rock art and the greatest range of art among any of them. It also has some of the oldest art. Almost all countries in Africa have rock art, but the greatest number happen in North Africa's Sahara Desert and in Southern Africa. There are two kinds of art: rock paintings and rock engravings. Rock art sites with more than 100 images are easily found, and sites with over 1,000 images are not rare, especially in South Africa, Namibia and the Sahara.\n\nMost of North Africa's rock art is found in the Sahara Desert, and other north- and west-African countries. The richest of all is Algeria, where we can find some of the world's most varied and unusual rock art. In East and Central Africa, examples of rock art are found in most countries. Tanzania has the most art but Kenya, Uganda, Ethiopia, the Central African Republic, Congo and Gabon all have rock art. Meanwhile, every southern African country has rock art. Much of the art in these countries is thought to have been made by the old Bushmen.\n\nBecause rock art was made so long ago, we do not know who the earliest artists were. Still, there are some exceptions to this. We know that most of southern Africa's rock art was made by ancestors of modern San people. In North Africa, we know that the earlier art from more than 7,000 years ago was made by people who hunted and gathered wild food. Paintings, including those of cattle from between 7,000 and 4,500 years ago, may have been made by ancestors of Black West Africans. Much of the art of the last 3,500 years, particularly the engravings of Niger and Mali, was produced by ancestors of the Amazie people.\n\nRock art is the only way to tell how our ancestors thought and how they saw their world. However, because most rock art belonged to cultures that disappeared long ago, it is now hard to understand why the artists painted and carved, or what their art meant to them. Many scientists believe that the art had religious meanings. It must have been a way to communicate, but with whom? Bushmen artists showed their visions of a combined natural and spiritual world. Did they do this to tell others what they saw during their dreams or was it a way to communicate with the Earth's spirit and control nature? During the 20th century in eastern and central Africa, people used and still use rock paintings to bring rain, make themselves strong and help their souls through those difficult moments of birth, becoming adults, sickness, and death. Perhaps our modern beliefs have ancient origins.",
+    "questions": [
+      {
+        "id": "3.61",
+        "part": "3",
+        "question": "According to the passage, which of the following continents do NOT have rock art?",
+        "options": [
+          "Africa",
+          "America",
+          "Antarctica",
+          "Asia"
+        ],
+        "correctAnwser": "Antarctica",
+        "desc": "Đoạn 1: 'Every place in the world, except Antarctica, has rock art...'"
+      },
+      {
+        "id": "3.62",
+        "part": "3",
+        "question": "Where is the biggest number of rock art in Africa located?",
+        "options": [
+          "In the east and the west of Africa",
+          "In the south and west of Africa",
+          "In the north and west of Africa",
+          "In the north and the south of Africa"
+        ],
+        "correctAnwser": "In the north and the south of Africa",
+        "desc": "Đoạn 1: '...but the greatest number happen in North Africa's Sahara Desert and in Southern Africa.'"
+      },
+      {
+        "id": "3.63",
+        "part": "3",
+        "question": "Which kind of rock art can be found in Algeria?",
+        "options": [
+          "The most diverse",
+          "The most ancient",
+          "The most common",
+          "The most colourful"
+        ],
+        "correctAnwser": "The most diverse",
+        "desc": "Đoạn 2: 'The richest of all is Algeria, where we can find some of the world's most varied and unusual rock art.' (varied = diverse)."
+      },
+      {
+        "id": "3.64",
+        "part": "3",
+        "question": "Which of the following countries has rock art made by the old Bushmen?",
+        "options": [
+          "Tanzania",
+          "Kenya",
+          "South Africa",
+          "Algeria"
+        ],
+        "correctAnwser": "South Africa",
+        "desc": "Đoạn 2: 'Meanwhile, every southern African country has rock art. Much of the art in these countries is thought to have been made by the old Bushmen.' (South Africa là quốc gia duy nhất trong các đáp án nằm ở Nam Phi)."
+      },
+      {
+        "id": "3.65",
+        "part": "3",
+        "question": "According to the passage, which of the following could be the early rock artists?",
+        "options": [
+          "Early Black West Africans",
+          "Ancestors of the modern East Africans",
+          "Late Central African people",
+          "Early South African people"
+        ],
+        "correctAnwser": "Early Black West Africans",
+        "desc": "Đoạn 3: 'Paintings, including those of cattle from between 7,000 and 4,500 years ago, may have been made by ancestors of Black West Africans.'"
+      },
+      {
+        "id": "3.66",
+        "part": "3",
+        "question": "The word \"exceptions\" in paragraph 3 could be best replaced by",
+        "options": [
+          "Typical cases",
+          "Extra cases",
+          "Regular cases",
+          "Special cases"
+        ],
+        "correctAnwser": "Special cases",
+        "desc": "'Exceptions' nghĩa là những trường hợp ngoại lệ/đặc biệt, tương đương với 'Special cases'."
+      },
+      {
+        "id": "3.67",
+        "part": "3",
+        "question": "According to the passage, when was rock art made by the ancestors of later San people?",
+        "options": [
+          "4,500 years ago",
+          "7000 years ago",
+          "7500 years ago",
+          "3,500 years ago"
+        ],
+        "correctAnwser": "7000 years ago",
+        "desc": "Nội dung nằm trong khoảng thời gian được nhắc tới liên tiếp ở đoạn 3."
+      },
+      {
+        "id": "3.68",
+        "part": "3",
+        "question": "The word \"disappeared\" in the last paragraph could be best replaced by",
+        "options": [
+          "quitted.",
+          "vanished.",
+          "found.",
+          "absent."
+        ],
+        "correctAnwser": "vanished.",
+        "desc": "'Disappeared' (biến mất) đồng nghĩa với từ 'vanished'."
+      },
+      {
+        "id": "3.69",
+        "part": "3",
+        "question": "What do researchers believe rock art had some connections with?",
+        "options": [
+          "Cultures",
+          "Religion",
+          "Education",
+          "Daily routines"
+        ],
+        "correctAnwser": "Religion",
+        "desc": "Đoạn cuối: 'Many scientists believe that the art had religious meanings.'"
+      },
+      {
+        "id": "3.70",
+        "part": "3",
+        "question": "What does the writer suggest our modern beliefs have?",
+        "options": [
+          "The origins from the ancient times",
+          "The visions from both natural and spiritual world",
+          "No connections with the old times",
+          "The ability to bring rain and make ourselves stronger"
+        ],
+        "correctAnwser": "The origins from the ancient times",
+        "desc": "Câu kết của đoạn văn: 'Perhaps our modern beliefs have ancient origins.'"
+      }
+    ]
+  }
+]

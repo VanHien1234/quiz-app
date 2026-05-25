@@ -1,0 +1,606 @@
+[
+
+{
+    "id": "2.1",
+    "part": "2",
+    "question": "A few dentists advocate the use of (A) salt for brushing teeth (B) rather than buying commercial teeth powder (C) or paste (D).",
+    "options": ["(A) use of", "(B) teeth", "(C) commercial teeth powder", "(D) paste"],
+    "correctAnwser": "(C) commercial teeth powder",
+    "desc": "Lỗi sai ở (C) vì cần sự song hành (parallelism) với cụm từ trước đó."
+  },
+  {
+    "id": "2.2",
+    "part": "2",
+    "question": "Peas (A) require rich soil (B), constant moistures (C), and a cool growing season (D) to develop well.",
+    "options": ["(A) Peas", "(B) rich soil", "(C) constant moistures", "(D) a cool growing season"],
+    "correctAnwser": "(C) constant moistures",
+    "desc": "Lỗi sai ở (C). 'Moisture' là danh từ không đếm được nên không có 's'."
+  },
+  {
+    "id": "2.3",
+    "part": "2",
+    "question": "The sun (A) seems to have been formed when the universe was (B) already 10 billion years (D).",
+    "options": ["(A) The sun", "(B) to have been formed", "(C) already", "(D) 10 billion years"],
+    "correctAnwser": "(D) 10 billion years",
+    "desc": "Lỗi sai ở (D). Thiếu từ 'old' ở cuối câu (10 billion years old)."
+  },
+  {
+    "id": "2.4",
+    "part": "2",
+    "question": "One of the greatest (A) engineering feats (B) of the 20th century was the building of Panama (C) Canal (D).",
+    "options": ["(A) greatest", "(B) engineering feats", "(C) Panama", "(D) Canal"],
+    "correctAnwser": "(C) Panama",
+    "desc": "Lỗi sai ở (C). Cần mạo từ 'the' trước tên kênh đào (the Panama Canal)."
+  },
+  {
+    "id": "2.5",
+    "part": "2",
+    "question": "In the first meeting (A), a headmaster briefly (B) introduced me to (C) the school's teaching staff (D).",
+    "options": ["(A) the first meeting", "(B) a headmaster briefly", "(C) introduced me to", "(D) the school's teaching staff"],
+    "correctAnwser": "(B) a headmaster briefly",
+    "desc": "Lỗi sai ở (B). Cần dùng mạo từ xác định 'the' thay vì 'a' cho 'headmaster' vì chức danh này đã được xác định trong bối cảnh trường học."
+  },
+
+
+  {
+    "id": "2.6",
+    "part": "2",
+    "question": "A few (A) people would want (B) to sacrifice the convenience of using cars of their own (C), so your proposal proves infeasible (D).",
+    "options": ["(A) A few", "(B) would want", "(C) of their own", "(D) proves infeasible"],
+    "correctAnwser": "(A) A few",
+    "desc": "Lỗi sai ở (A). Dựa vào ngữ cảnh câu mang nghĩa phủ định (rất ít người muốn hy sinh sự tiện lợi), cần dùng 'Few' thay vì 'A few' (một vài)."
+  },
+  {
+    "id": "2.7",
+    "part": "2",
+    "question": "The earth (A) is the only (B) planet with a large number of (C) oxygen in its atmosphere (D).",
+    "options": ["(A) The earth", "(B) is the only", "(C) a large number of", "(D) in its atmosphere"],
+    "correctAnwser": "(C) a large number of",
+    "desc": "Lỗi sai ở (C). 'Oxygen' là danh từ không đếm được, phải dùng 'a large amount of' thay cho 'a large number of'."
+  },
+  {
+    "id": "2.8",
+    "part": "2",
+    "question": "Robert Frost was not well known as (A) a poet until he reached (B) the (C) forty (D).",
+    "options": ["(A) as", "(B) reached", "(C) the", "(D) forty"],
+    "correctAnwser": "(C) the",
+    "desc": "Lỗi sai ở (C). Không dùng mạo từ 'the' trước độ tuổi đếm số đếm thông thường trong cấu trúc này. Có thể dùng 'the age of forty' hoặc bỏ 'the' thành 'reached forty'."
+  },
+  {
+    "id": "2.9",
+    "part": "2",
+    "question": "The office manager insists that his staff use (A) all of its (B) vacation time, but he hardly takes (C) a vacation himself (D).",
+    "options": ["(A) use", "(B) its", "(C) hardly takes", "(D) himself"],
+    "correctAnwser": "(B) its",
+    "desc": "Lỗi sai ở (B). 'Staff' ở đây được dùng với nghĩa số nhiều (nhấn mạnh các nhân viên, thể hiện qua động từ 'use' không chia 's'), do đó đại từ sở hữu phải là 'their' chứ không phải 'its'."
+  },
+  {
+    "id": "2.10",
+    "part": "2",
+    "question": "Psychologists suggest (A) that there is often a connection (B) of the color red with victory in (C) people's mind (D).",
+    "options": ["(A) suggest", "(B) a connection", "(C) of the color red with", "(D) people's mind"],
+    "correctAnwser": "(C) of the color red with",
+    "desc": "Lỗi sai ở (C). Cấu trúc đúng là 'a connection between A and B' hoặc 'association of A with B'. Sửa thành 'between the color red and'."
+  },
+  {
+    "id": "2.11",
+    "part": "2",
+    "question": "Thanks to (A) the Internet, we can communicate (B) with each other (C) instant, regardless of where we are (D).",
+    "options": ["(A) Thanks to", "(B) communicate", "(C) instant", "(D) regardless of"],
+    "correctAnwser": "(C) instant",
+    "desc": "Lỗi sai ở (C). Từ cần điền phải là một trạng từ để bổ nghĩa cho động từ 'communicate', do đó 'instant' phải đổi thành 'instantly'."
+  },
+  {
+    "id": "2.12",
+    "part": "2",
+    "question": "Rent (A) equipment must be returned (B) to the front desk (C) before the center closes (D).",
+    "options": ["(A) Rent", "(B) must be returned", "(C) to the front desk", "(D) closes"],
+    "correctAnwser": "(A) Rent",
+    "desc": "Lỗi sai ở (A). 'Rent' là động từ hoặc danh từ (tiền thuê). Để làm tính từ bổ nghĩa cho 'equipment', cần dùng 'Rented' hoặc 'Rental'."
+  },
+  {
+    "id": "2.13",
+    "part": "2",
+    "question": "It is (A) claimed that global warming is caused by (B) polluters such as carbon dioxide, methane (C) and CFCs (D).",
+    "options": ["(A) is", "(B) polluters", "(C) methane", "(D) CFCs"],
+    "correctAnwser": "(B) polluters",
+    "desc": "Lỗi sai ở (B). 'Polluters' chỉ người/tác nhân gây ô nhiễm (nhà máy, con người), trong khi CO2, methane là chất gây ô nhiễm, cần dùng 'pollutants'."
+  },
+  {
+    "id": "2.14",
+    "part": "2",
+    "question": "Motor vehicles (A) are among the majoring (B) causes of air pollution in big city centers (D).",
+    "options": ["(A) Motor vehicles", "(B) majoring", "(C) causes of", "(D) city centers"],
+    "correctAnwser": "(B) majoring",
+    "desc": "Lỗi sai ở (B). Cần một tính từ mang nghĩa 'chính, chủ yếu', từ đúng là 'major' chứ không phải dạng V-ing 'majoring'."
+  },
+  {
+    "id": "2.15",
+    "part": "2",
+    "question": "The ode was original (A) a ceremonial poem (B) written to celebrate public occasions or exalted (C) subjects (D).",
+    "options": ["(A) original", "(B) a ceremonial poem", "(C) exalted", "(D) subjects"],
+    "correctAnwser": "(A) original",
+    "desc": "Lỗi sai ở (A). Cần một trạng từ bổ nghĩa cho cả câu/hành động, sửa 'original' thành 'originally'."
+  },
+  {
+    "id": "2.16",
+    "part": "2",
+    "question": "Slightly over half of (A) the population of El Paso, Texas, says (B) both (C) English and Spanish (D).",
+    "options": ["(A) Slightly over half of", "(B) says", "(C) both", "(D) and Spanish"],
+    "correctAnwser": "(B) says",
+    "desc": "Lỗi sai ở (B). Nói một ngôn ngữ nào đó người ta dùng động từ 'speak' (ví dụ: speaks English), không dùng 'say'."
+  },
+  {
+    "id": "2.17",
+    "part": "2",
+    "question": "The root of (A) the chicory plant is often (B) ground up and added to (C) coffee to elimination (D) its bitterness.",
+    "options": ["(A) The root of", "(B) is often", "(C) added to", "(D) elimination"],
+    "correctAnwser": "(D) elimination",
+    "desc": "Lỗi sai ở (D). Sau 'to' chỉ mục đích cần một động từ nguyên thể (to V), sửa danh từ 'elimination' thành động từ 'eliminate'."
+  },
+  {
+    "id": "2.18",
+    "part": "2",
+    "question": "Artist (A) Helen Frankenthaler returned (B) home from college on 1949 to her native New York (C), the city producing the most art revolutionary (D) of the day.",
+    "options": ["(A) Artist", "(B) returned", "(C) on 1949", "(D) art revolutionary"],
+    "correctAnwser": "(D) art revolutionary",
+    "desc": "Lỗi sai ở (D). Sai trật tự từ, tính từ phải đứng trước danh từ: 'revolutionary art' (nghệ thuật mang tính cách mạng)."
+  },
+  {
+    "id": "2.19",
+    "part": "2",
+    "question": "Contralto Marian Anderson became (A) a member permanent (B) of the Metropolitan Opera (C) Company in 1955 (D).",
+    "options": ["(A) became", "(B) a member permanent", "(C) of the", "(D) in 1955"],
+    "correctAnwser": "(B) a member permanent",
+    "desc": "Lỗi sai ở (B). Sai trật tự từ, tính từ đứng trước danh từ: 'a permanent member'."
+  },
+  {
+    "id": "2.20",
+    "part": "2",
+    "question": "The puppy was born (A) with a heart problem and was only survived (B) for a few hours (C).",
+    "options": ["(A) was born", "(B) was only survived", "(C) for a few hours", "(D) (No error)"],
+    "correctAnwser": "(B) was only survived",
+    "desc": "Lỗi sai ở (B). Động từ 'survive' mang nghĩa chủ động (sống sót), không dùng ở dạng bị động. Sửa thành 'only survived'."
+  },
+  {
+    "id": "2.21",
+    "part": "2",
+    "question": "The (A) scientific method comprises forming hypotheses, collect (B) data, and testing (C) results (D).",
+    "options": ["(A) The", "(B) collect", "(C) testing", "(D) results"],
+    "correctAnwser": "(B) collect",
+    "desc": "Lỗi sai ở (B). Cấu trúc song hành (Parallelism). Phải cùng dạng V-ing với 'forming' và 'testing'. Sửa thành 'collecting'."
+  },
+  {
+    "id": "2.22",
+    "part": "2",
+    "question": "If businesses want (A) to protect the environment (B), they will aid the local community and educating (C) travelers (D).",
+    "options": ["(A) want", "(B) to protect", "(C) educating", "(D) travelers"],
+    "correctAnwser": "(C) educating",
+    "desc": "Lỗi sai ở (C). Cấu trúc song hành: 'aid ... and educate'. Sửa 'educating' thành 'educate'."
+  },
+  {
+    "id": "2.23",
+    "part": "2",
+    "question": "Knowledge of the rate (A) at which a ship is traveling through (B) the water is important if the navigator (C) need (D) to estimate the time of arrival.",
+    "options": ["(A) rate", "(B) traveling through", "(C) navigator", "(D) need"],
+    "correctAnwser": "(D) need",
+    "desc": "Lỗi sai ở (D). Sai sự hòa hợp giữa chủ ngữ và động từ. 'The navigator' là số ít, động từ phải thêm 's': 'needs'."
+  },
+  {
+    "id": "2.24",
+    "part": "2",
+    "question": "It is estimated (A) that a scientific principle has a life expectancy (B) of approximately a decade before it drastically revised (C) or replaced by newer information (D).",
+    "options": ["(A) estimated", "(B) life expectancy", "(C) it drastically revised", "(D) replaced by"],
+    "correctAnwser": "(C) it drastically revised",
+    "desc": "Lỗi sai ở (C). Nguyên lý khoa học phải được chỉnh sửa (bị động). Sửa thành 'it is drastically revised'."
+  },
+  {
+    "id": "2.25",
+    "part": "2",
+    "question": "The fact that half of the known species is thought to (A) inhabit the world's rain forests does not seem surprising (B), considering (C) the huge numbers of insects that comprise (D) the bulk of the species.",
+    "options": ["(A) is thought to", "(B) surprising", "(C) considering", "(D) comprise"],
+    "correctAnwser": "(A) is thought to",
+    "desc": "Lỗi sai ở (A). 'Species' ở đây mang nghĩa số nhiều (những loài), do đó động từ phải chia số nhiều: 'are thought to'."
+  },
+  {
+    "id": "2.26",
+    "part": "2",
+    "question": "Fossils of plant (A) that have been extinct for fifty million years (B) have been found in large deposits of amber (C) near the Baltic Sea (D).",
+    "options": ["(A) plant", "(B) extinct", "(C) amber", "(D) near"],
+    "correctAnwser": "(A) plant",
+    "desc": "Lỗi sai ở (A). Hóa thạch của các loài thực vật nói chung cần dùng danh từ số nhiều: 'plants'."
+  },
+  {
+    "id": "2.27",
+    "part": "2",
+    "question": "The tourists are looking for (A) a nearby restaurant where (B) they can eat seafood in it (C).",
+    "options": ["(A) looking for", "(B) where", "(C) in it", "(D) (No error)"],
+    "correctAnwser": "(C) in it",
+    "desc": "Lỗi sai ở (C). Trạng từ quan hệ 'where' thay thế cho cụm giới từ chỉ địa điểm (in the restaurant), do đó không được lặp lại 'in it' ở cuối mệnh đề."
+  },
+  {
+    "id": "2.28",
+    "part": "2",
+    "question": "Tenant farmers are those they (A) either rent a farm and work it (B) for themselves or (C) work the farm for the owner and receive payment (D).",
+    "options": ["(A) those they", "(B) work it", "(C) or", "(D) receive payment"],
+    "correctAnwser": "(A) those they",
+    "desc": "Lỗi sai ở (A). Cần đại từ quan hệ thay thế cho 'those' để làm chủ ngữ cho mệnh đề phía sau, sửa 'they' thành 'who'."
+  },
+  {
+    "id": "2.29",
+    "part": "2",
+    "question": "A desert area that has been (A) without water for six years will still bloom (B) when (C) rain will come (D).",
+    "options": ["(A) has been", "(B) still bloom", "(C) when", "(D) will come"],
+    "correctAnwser": "(D) will come",
+    "desc": "Lỗi sai ở (D). Trong mệnh đề trạng ngữ chỉ thời gian bắt đầu bằng 'when', động từ chỉ chia ở hiện tại đơn dù chỉ sự việc ở tương lai. Sửa thành 'comes'."
+  },
+  {
+    "id": "2.30",
+    "part": "2",
+    "question": "Some (A) nematodes are very tiny (B) that it is necessary to view them (C) through a microscope (D).",
+    "options": ["(A) Some", "(B) very tiny", "(C) view them", "(D) through"],
+    "correctAnwser": "(B) very tiny",
+    "desc": "Lỗi sai ở (B). Cấu trúc 'so + adj + that...' (quá... đến nỗi mà), phải đổi 'very' thành 'so'."
+  },
+  {
+    "id": "2.31",
+    "part": "2",
+    "question": "Although (A) Artist Tatun was totally blind in one eye and had only slight vision in the other (B), but he became (C) an internationally renowned (D) jazz musician.",
+    "options": ["(A) Although", "(B) in the other", "(C) but he became", "(D) internationally renowned"],
+    "correctAnwser": "(C) but he became",
+    "desc": "Lỗi sai ở (C). Đã dùng mệnh đề nhượng bộ 'Although' ở đầu câu thì vế sau không được dùng 'but'. Cần bỏ chữ 'but'."
+  },
+  {
+    "id": "2.32",
+    "part": "2",
+    "question": "A rabbit moves about by hopping on its hind legs, which are (A) much longer and more strong (B) than its (C) front legs (D).",
+    "options": ["(A) are", "(B) more strong", "(C) its", "(D) front legs"],
+    "correctAnwser": "(B) more strong",
+    "desc": "Lỗi sai ở (B). 'Strong' là tính từ ngắn nên khi so sánh hơn phải dùng 'stronger' thay vì 'more strong'."
+  },
+  {
+    "id": "2.33",
+    "part": "2",
+    "question": "Even the most (A) discriminating gourmet will agree that food (B) in the south is as good as any other region (C) in the country (D).",
+    "options": ["(A) the most", "(B) food", "(C) any other region", "(D) in the country"],
+    "correctAnwser": "(C) any other region",
+    "desc": "Lỗi sai ở (C). Phép so sánh phải cân bằng: so sánh 'đồ ăn ở miền nam' với 'đồ ăn ở bất kì vùng nào khác'. Sửa thành 'that in any other region' hoặc 'any other region's'."
+  },
+  {
+    "id": "2.34",
+    "part": "2",
+    "question": "Some scientists predict that, despite (A) greater material output, the people in the year 2,000 will be poorer (B) in many ways than it is (C) today (D).",
+    "options": ["(A) despite", "(B) will be poorer", "(C) it is", "(D) today"],
+    "correctAnwser": "(C) it is",
+    "desc": "Lỗi sai ở (C). Đại từ 'it' ở đây sai vì nó phải thay thế cho danh từ số nhiều 'the people'. Sửa thành 'they are'."
+  },
+  {
+    "id": "2.35",
+    "part": "2",
+    "question": "Venus approaches (A) the Earth more closely (B) than any other (C) planet is (D).",
+    "options": ["(A) approaches", "(B) closely", "(C) any other", "(D) is"],
+    "correctAnwser": "(D) is",
+    "desc": "Lỗi sai ở (D). Động từ chính ở vế trước là động từ thường 'approaches', nên trợ động từ ở vế so sánh phải là 'does' chứ không phải to be 'is'."
+  },
+  {
+    "id": "2.36",
+    "part": "2",
+    "question": "During (A) the Middle Ages, handwriting (B) notices kept groups of nobles informed (C) of important events (D).",
+    "options": ["(A) During", "(B) handwriting", "(C) informed", "(D) events"],
+    "correctAnwser": "(B) handwriting",
+    "desc": "Lỗi sai ở (B). 'Notices' (thông báo) mang nghĩa bị động (được viết tay), phải dùng phân từ hai 'handwritten' làm tính từ bổ nghĩa."
+  },
+  {
+    "id": "2.37",
+    "part": "2",
+    "question": "Bone and ivory needles finding (A) at archaeological sites indicate (B) that clothes (C) have been sewn (D) for some 17,000 years.",
+    "options": ["(A) finding", "(B) indicate", "(C) clothes", "(D) have been sewn"],
+    "correctAnwser": "(A) finding",
+    "desc": "Lỗi sai ở (A). Kim bằng xương và ngà voi 'được tìm thấy' (mang nghĩa bị động). Cần rút gọn mệnh đề quan hệ bằng phân từ hai: 'found'."
+  },
+
+  {
+    "id": "2.38",
+    "part": "2",
+    "question": "Ceramics can be harder (A), light (B), and more resistant to (C) heat than metals (D).",
+    "options": ["(A) harder", "(B) light", "(C) more resistant to", "(D) metals"],
+    "correctAnwser": "(B) light",
+    "desc": "Lỗi sai ở (B). Theo cấu trúc song hành, tính từ phải ở dạng so sánh hơn để tương xứng với 'harder' và 'more resistant'. Sửa 'light' thành 'lighter'."
+  },
+  {
+    "id": "2.39",
+    "part": "2",
+    "question": "Chemical engineering (A) is based on the principles (B) of physics, chemists (C), and mathematics (D).",
+    "options": ["(A) Chemical engineering", "(B) principles", "(C) chemists", "(D) mathematics"],
+    "correctAnwser": "(C) chemists",
+    "desc": "Lỗi sai ở (C). Cấu trúc song hành đang liệt kê các môn khoa học (vật lý, toán học), nên phải dùng môn hóa học 'chemistry' thay vì danh từ chỉ người 'chemists'."
+  },
+  {
+    "id": "2.40",
+    "part": "2",
+    "question": "The tools (A) used most often by (B) floral designers are the knives (C), scissors, and glue gun (D).",
+    "options": ["(A) The tools", "(B) by", "(C) the knives", "(D) glue gun"],
+    "correctAnwser": "(C) the knives",
+    "desc": "Lỗi sai ở (C). Theo cấu trúc liệt kê song hành, các danh từ phía sau không có mạo từ 'the' (scissors, glue gun), do đó cần bỏ mạo từ 'the' thành 'knives'."
+  },
+  {
+    "id": "2.41",
+    "part": "2",
+    "question": "Today, successful (A) farmers are experts not only in agriculture (B), but also in market (C), finance, and accounting (D).",
+    "options": ["(A) successful", "(B) agriculture", "(C) market", "(D) accounting"],
+    "correctAnwser": "(C) market",
+    "desc": "Lỗi sai ở (C). Cần danh từ mang nghĩa lĩnh vực/ngành nghề để song hành với 'agriculture', 'finance', 'accounting'. Sửa 'market' (cái chợ/thị trường) thành 'marketing' (tiếp thị)."
+  },
+  {
+    "id": "2.42",
+    "part": "2",
+    "question": "It is their (A) nearly perfect crystal structure that gives (B) diamonds their hardness, brilliance (C), and transparent (D).",
+    "options": ["(A) their", "(B) gives", "(C) brilliance", "(D) transparent"],
+    "correctAnwser": "(D) transparent",
+    "desc": "Lỗi sai ở (D). Cần một danh từ để tương xứng với 'hardness' và 'brilliance'. Sửa tính từ 'transparent' thành danh từ 'transparency'."
+  },
+  {
+    "id": "2.43",
+    "part": "2",
+    "question": "Herman Melville's novel (A) Moby-Dick describes the dangers, difficult (B), and often violent life aboard (C) a whaling ship (D).",
+    "options": ["(A) novel", "(B) difficult", "(C) aboard", "(D) a whaling ship"],
+    "correctAnwser": "(B) difficult",
+    "desc": "Lỗi sai ở (B). Cần một danh từ song hành với danh từ 'dangers'. Sửa tính từ 'difficult' thành danh từ 'difficulties'."
+  },
+  {
+    "id": "2.44",
+    "part": "2",
+    "question": "Viscosity is a measurement describing (A) the relative difficulty or easy (B) with which liquids (C) flow (D).",
+    "options": ["(A) describing", "(B) easy", "(C) liquids", "(D) flow"],
+    "correctAnwser": "(B) easy",
+    "desc": "Lỗi sai ở (B). Liên từ 'or' nối 2 từ cùng loại, 'difficulty' là danh từ nên cần sửa tính từ 'easy' thành danh từ 'ease'."
+  },
+  {
+    "id": "2.45",
+    "part": "2",
+    "question": "Unlike (A) competitive running (B), race walkers must always keep some portion of their (C) feet in contact with the ground (D).",
+    "options": ["(A) Unlike", "(B) competitive running", "(C) their", "(D) in contact"],
+    "correctAnwser": "(B) competitive running",
+    "desc": "Lỗi sai ở (B). Lỗi so sánh khập khiễng (dangling modifier), phải so sánh người với người. Sửa 'competitive running' thành 'competitive runners' để so sánh với 'race walkers'."
+  },
+  {
+    "id": "2.46",
+    "part": "2",
+    "question": "Composer John Cage used many unusual (A) objects as instrument (B) in his music, including (C) cowbells, flower pots, tin cans (D), and saw blades.",
+    "options": ["(A) unusual", "(B) instrument", "(C) including", "(D) tin cans"],
+    "correctAnwser": "(B) instrument",
+    "desc": "Lỗi sai ở (B). 'Objects' ở dạng số nhiều nên 'instrument' cũng phải để số nhiều là 'instruments'."
+  },
+  {
+    "id": "2.47",
+    "part": "2",
+    "question": "It was in a cave near Magdalena, New Mexico when (A) the oldest known (B) ears of cultivated (C) corn were discovered (D).",
+    "options": ["(A) when", "(B) oldest known", "(C) cultivated", "(D) were discovered"],
+    "correctAnwser": "(A) when",
+    "desc": "Lỗi sai ở (A). Đây là cấu trúc câu chẻ (Cleft sentence): 'It is/was + cụm từ nhấn mạnh + that...'. Cần sửa 'when' thành 'that'."
+  },
+  {
+    "id": "2.48",
+    "part": "2",
+    "question": "Abigail Adams' letters to (A) her husband present a graphic (B) picture of the age which (C) she lived (D).",
+    "options": ["(A) to", "(B) graphic", "(C) which", "(D) lived"],
+    "correctAnwser": "(C) which",
+    "desc": "Lỗi sai ở (C). Động từ 'live' đi với giới từ 'in' (live in an age). Do đó đại từ quan hệ phải đi kèm giới từ: sửa 'which' thành 'in which'."
+  },
+  {
+    "id": "2.49",
+    "part": "2",
+    "question": "Biochemists (A) have solved (B) many of the mysteries about photosynthesis, the process which (C) plants make food (D).",
+    "options": ["(A) Biochemists", "(B) have solved", "(C) which", "(D) make food"],
+    "correctAnwser": "(C) which",
+    "desc": "Lỗi sai ở (C). Tương tự, cần dùng đại từ quan hệ đi kèm giới từ (quá trình mà thông qua đó/trong đó). Sửa thành 'by which' hoặc 'in which'."
+  },
+  {
+    "id": "2.50",
+    "part": "2",
+    "question": "A tapestry consists of (A) a foundation weave, called the warp, which across (B) are passed different (C) colored threads, called the weft, forming decorative (D) patterns.",
+    "options": ["(A) consists of", "(B) which across", "(C) different", "(D) decorative"],
+    "correctAnwser": "(B) which across",
+    "desc": "Lỗi sai ở (B). Sai trật tự giới từ và đại từ quan hệ. Giới từ phải đứng trước: sửa thành 'across which'."
+  },
+  {
+    "id": "2.51",
+    "part": "2",
+    "question": "Mold is (A) extremely destruction (B) to books in a (C) library (D).",
+    "options": ["(A) is", "(B) destruction", "(C) in a", "(D) library"],
+    "correctAnwser": "(B) destruction",
+    "desc": "Lỗi sai ở (B). Đứng sau to be và trạng từ 'extremely' cần một tính từ. Sửa 'destruction' (danh từ) thành 'destructive' (tính từ)."
+  },
+  {
+    "id": "2.52",
+    "part": "2",
+    "question": "One reason birds have been (A) so successful is because of (B) their able to escape (C) from danger quickly (D).",
+    "options": ["(A) have been", "(B) because of", "(C) their able to escape", "(D) quickly"],
+    "correctAnwser": "(C) their able to escape",
+    "desc": "Lỗi sai ở (C). Sau tính từ sở hữu 'their' cần dùng một danh từ. Sửa tính từ 'able' thành danh từ 'ability'."
+  },
+  {
+    "id": "2.53",
+    "part": "2",
+    "question": "Commercially honey is heated (A) and filtered (B) in order to stabilize (C) and clarify it (D).",
+    "options": ["(A) Commercially honey is heated", "(B) filtered", "(C) stabilize", "(D) clarify it"],
+    "correctAnwser": "(A) Commercially honey is heated",
+    "desc": "Lỗi sai ở (A). Trạng từ 'Commercially' không thể bổ nghĩa cho danh từ 'honey'. Cần dùng tính từ, sửa thành 'Commercial honey'."
+  },
+  {
+    "id": "2.54",
+    "part": "2",
+    "question": "The process (A) of fermentation takes place only (B) in the absent (C) of oxygen (D).",
+    "options": ["(A) process", "(B) takes place only", "(C) absent", "(D) oxygen"],
+    "correctAnwser": "(C) absent",
+    "desc": "Lỗi sai ở (C). Sau mạo từ 'the' cần một danh từ. Cụm từ đúng là 'in the absence of' (trong sự thiếu vắng của), sửa 'absent' thành 'absence'."
+  },
+  {
+    "id": "2.55",
+    "part": "2",
+    "question": "Certain (A) species of penicillin mold are used (B) to ripe (C) cheese (D).",
+    "options": ["(A) Certain", "(B) are used", "(C) to ripe", "(D) cheese"],
+    "correctAnwser": "(C) to ripe",
+    "desc": "Lỗi sai ở (C). Sau 'to' chỉ mục đích cần một động từ. 'Ripe' là tính từ (chín), phải dùng động từ 'ripen' (làm cho chín)."
+  },
+  {
+    "id": "2.56",
+    "part": "2",
+    "question": "One of the most beautiful (A) botanical gardens in (B) the United States is the wildly (C) and lovely Magnolia Gardens near Charleston (D), South Carolina.",
+    "options": ["(A) beautiful", "(B) in", "(C) wildly", "(D) near Charleston"],
+    "correctAnwser": "(C) wildly",
+    "desc": "Lỗi sai ở (C). Liên từ 'and' nối 2 tính từ, cần sự song hành với tính từ 'lovely'. Sửa trạng từ 'wildly' thành 'wild'."
+  },
+  {
+    "id": "2.57",
+    "part": "2",
+    "question": "The discover (A) of gold and silver in the rugged (B) mountains of Nevada in 1858 attracted (C) many fortune-seekers to that area (D).",
+    "options": ["(A) discover", "(B) rugged", "(C) attracted", "(D) that area"],
+    "correctAnwser": "(A) discover",
+    "desc": "Lỗi sai ở (A). Sau mạo từ 'The' phải là một danh từ. Sửa động từ 'discover' thành danh từ 'discovery'."
+  },
+  {
+    "id": "2.58",
+    "part": "2",
+    "question": "Although (A) the social sciences different (B) a great deal from one another (C), they share a common interest (D) in human relationships.",
+    "options": ["(A) Although", "(B) different", "(C) one another", "(D) common interest"],
+    "correctAnwser": "(B) different",
+    "desc": "Lỗi sai ở (B). Chủ ngữ 'the social sciences' cần một động từ chính. Sửa tính từ 'different' thành động từ 'differ'."
+  },
+  {
+    "id": "2.59",
+    "part": "2",
+    "question": "Transfer taxes (A) are imposed on (B) the sell (C) or exchange of stock and (D) bonds.",
+    "options": ["(A) Transfer taxes", "(B) imposed on", "(C) the sell", "(D) and"],
+    "correctAnwser": "(C) the sell",
+    "desc": "Lỗi sai ở (C). Sau mạo từ 'the' cần một danh từ để song hành với 'exchange'. Sửa động từ 'sell' thành danh từ 'sale'."
+  },
+  {
+    "id": "2.60",
+    "part": "2",
+    "question": "P. T. Barnum opened his own (A) circus in 1871 and become (B) the most famous (C) showman of his time (D).",
+    "options": ["(A) his own", "(B) become", "(C) the most famous", "(D) his time"],
+    "correctAnwser": "(B) become",
+    "desc": "Lỗi sai ở (B). Liên từ 'and' kết nối 2 động từ trong quá khứ (sự việc 1871). Sửa 'become' thành 'became' để song hành với 'opened'."
+  },
+  {
+    "id": "2.61",
+    "part": "2",
+    "question": "Runner Wilma Rudolph win (A) three gold medals at the (B) 1960 Olympics, and she set (C) the world record for the 100-meter dash in (D) 1961.",
+    "options": ["(A) win", "(B) at the", "(C) set", "(D) in"],
+    "correctAnwser": "(A) win",
+    "desc": "Lỗi sai ở (A). Sự việc xảy ra ở Thế vận hội 1960 nên phải dùng thì quá khứ đơn. Sửa 'win' thành 'won'."
+  },
+  {
+    "id": "2.62",
+    "part": "2",
+    "question": "In about (A) 1920, experimental psychologists (B) have devoted more research to (C) learning than to any (D) other topic.",
+    "options": ["(A) In about", "(B) experimental psychologists", "(C) have devoted", "(D) any"],
+    "correctAnwser": "(C) have devoted",
+    "desc": "Lỗi sai ở (C). Thời gian '1920' xác định trong quá khứ nên chỉ dùng quá khứ đơn. Bỏ 'have' và chỉ dùng 'devoted'."
+  },
+  {
+    "id": "2.63",
+    "part": "2",
+    "question": "Sheep have been (A) domesticated for over 5,000 years ago (B).",
+    "options": ["(A) have been", "(B) ago"],
+    "correctAnwser": "(B) ago",
+    "desc": "Lỗi sai ở (B). Giới từ 'for' + khoảng thời gian không dùng đi kèm với 'ago'. Cần bỏ từ 'ago'."
+  },
+  {
+    "id": "2.64",
+    "part": "2",
+    "question": "The fossil remains of much (A) extinct mammals have been (B) found in the tar pits at Rancho La Brea in (C) Los Angeles (D).",
+    "options": ["(A) much", "(B) have been", "(C) in", "(D) Los Angeles"],
+    "correctAnwser": "(A) much",
+    "desc": "Lỗi sai ở (A). 'Mammals' (động vật có vú) là danh từ số nhiều đếm được, phải dùng 'many' thay cho 'much'."
+  },
+  {
+    "id": "2.65",
+    "part": "2",
+    "question": "Researches (A) in economics, psychology, and marketing can help (B) businesses.",
+    "options": ["(A) Researches", "(B) help", "(C) economics", "(D) businesses"],
+    "correctAnwser": "(A) Researches",
+    "desc": "Lỗi sai ở (A). 'Research' (nghiên cứu) là danh từ không đếm được, không dùng ở dạng số nhiều. Sửa thành 'Research'."
+  },
+  {
+    "id": "2.66",
+    "part": "2",
+    "question": "More than (A) 10,000 years ago, glaciers moved (B) across the Minnesota region four time (C), levelling most (D) of the land.",
+    "options": ["(A) More than", "(B) moved", "(C) four time", "(D) most"],
+    "correctAnwser": "(C) four time",
+    "desc": "Lỗi sai ở (C). 'Four' là số nhiều nên 'time' chỉ số lần phải thêm 's'. Sửa thành 'four times'."
+  },
+  {
+    "id": "2.67",
+    "part": "2",
+    "question": "In the (A) early days of jet development, jet engines used great numbers of (B) fuel.",
+    "options": ["(A) In the", "(B) numbers of", "(C) used", "(D) development"],
+    "correctAnwser": "(B) numbers of",
+    "desc": "Lỗi sai ở (B). 'Fuel' là danh từ không đếm được nên không dùng 'numbers of'. Sửa thành 'amounts of' hoặc 'quantities of'."
+  },
+  {
+    "id": "2.68",
+    "part": "2",
+    "question": "Ducks are less (A) susceptible to infection than (B) another (C) types of poultry (D).",
+    "options": ["(A) less", "(B) than", "(C) another", "(D) types of poultry"],
+    "correctAnwser": "(C) another",
+    "desc": "Lỗi sai ở (C). 'Types' là danh từ số nhiều, không thể đứng sau 'another' (chỉ + danh từ số ít). Sửa 'another' thành 'other'."
+  },
+  {
+    "id": "2.69",
+    "part": "2",
+    "question": "Sharks can detect (A) minute electrical discharges coming (B) from its (C) prey (D).",
+    "options": ["(A) detect", "(B) coming", "(C) its", "(D) prey"],
+    "correctAnwser": "(C) its",
+    "desc": "Lỗi sai ở (C). 'Sharks' là số nhiều, đại từ sở hữu thay thế phải là số nhiều. Sửa 'its' thành 'their'."
+  },
+  {
+    "id": "2.70",
+    "part": "2",
+    "question": "Many (A) bridges in New England were covered (B) with wooden roofs to protect it (C) from rain and snow (D).",
+    "options": ["(A) Many", "(B) were covered", "(C) it", "(D) rain and snow"],
+    "correctAnwser": "(C) it",
+    "desc": "Lỗi sai ở (C). 'Bridges' là danh từ số nhiều, đại từ tân ngữ thay thế phải là số nhiều. Sửa 'it' thành 'them'."
+  },
+  {
+    "id": "2.71",
+    "part": "2",
+    "question": "Because of (A) their color and shape, seahorses blend so well with the seaweed in which (B) they live that it is (C) almost impossible to see themselves (D).",
+    "options": ["(A) Because of", "(B) in which", "(C) it is", "(D) themselves"],
+    "correctAnwser": "(D) themselves",
+    "desc": "Lỗi sai ở (D). Cá ngựa ngụy trang để người/vật khác không nhìn thấy chúng (them), chứ không phải để chúng tự nhìn chính mình (themselves)."
+  },
+  {
+    "id": "2.72",
+    "part": "2",
+    "question": "The works (A) of early American woodcarvers had many artistic qualities, but these craftsmen probably did not (B) think of them (C) as artists (D).",
+    "options": ["(A) The works", "(B) did not", "(C) them", "(D) as artists"],
+    "correctAnwser": "(C) them",
+    "desc": "Lỗi sai ở (C). Chủ ngữ (craftsmen) và tân ngữ chỉ cùng một đối tượng (họ không coi CHÍNH HỌ là nghệ sĩ). Cần dùng đại từ phản thân 'themselves'."
+  },
+  {
+    "id": "2.73",
+    "part": "2",
+    "question": "The author (A) Susan Glaspell won (B) a Pulitzer Prize in 1931 for hers (C) play, Alison's House (D).",
+    "options": ["(A) The author", "(B) won", "(C) hers", "(D) play"],
+    "correctAnwser": "(C) hers",
+    "desc": "Lỗi sai ở (C). Đứng trước danh từ 'play' cần một tính từ sở hữu, không dùng đại từ sở hữu 'hers' (thường đứng độc lập). Sửa thành 'her'."
+  },
+  {
+    "id": "2.74",
+    "part": "2",
+    "question": "Perhaps mankind's first (A) important musical (B) influence were (C) the songs of birds (D).",
+    "options": ["(A) first", "(B) musical", "(C) were", "(D) the songs of birds"],
+    "correctAnwser": "(C) were",
+    "desc": "Lỗi sai ở (C). Chủ ngữ 'influence' là danh từ số ít, nên động từ to be phải chia số ít. Sửa 'were' thành 'was'."
+  },
+  {
+    "id": "2.75",
+    "part": "2",
+    "question": "The rock formations in the Valley of Fire in Nevada has been worn (A) into many strange (B) shapes by the action (C) of wind and water (D).",
+    "options": ["(A) has been worn", "(B) strange", "(C) the action", "(D) wind and water"],
+    "correctAnwser": "(A) has been worn",
+    "desc": "Lỗi sai ở (A). Chủ ngữ chính của câu là 'formations' (số nhiều), nên động từ phải chia số nhiều. Sửa 'has' thành 'have'."
+  }
+]
