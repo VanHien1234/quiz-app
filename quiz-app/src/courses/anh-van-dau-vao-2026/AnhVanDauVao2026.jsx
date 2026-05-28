@@ -1,8 +1,9 @@
-import { useMemo, useState } from 'react'
+import { useMemo, useState, useEffect } from 'react'
 import {
   QUIZ_PARTS,
   getCorrectAnswer,
   isCorrectAnswer,
+  generateFullTest,
 } from './quizzes'
 import '../../styles/quiz.css'
 
@@ -17,19 +18,44 @@ function getOptionLabel(index) {
   return String.fromCharCode(65 + index)
 }
 
+function formatTime(seconds) {
+  const m = Math.floor(seconds / 60)
+  const s = seconds % 60
+  return `${m.toString().padStart(2, '0')}:${s.toString().padStart(2, '0')}`
+}
+
 export default function AnhVanDauVao2026({ onExit }) {
   const [screen, setScreen] = useState('home')
   const [mode, setMode] = useState(null)
   const [activePart, setActivePart] = useState(null)
+  const [testQuestions, setTestQuestions] = useState(null)
   const [currentIndex, setCurrentIndex] = useState(0)
   const [answers, setAnswers] = useState({})
   const [checkedMap, setCheckedMap] = useState({})
+  const [timeLeft, setTimeLeft] = useState(90 * 60)
 
-  const questions = activePart?.questions ?? []
+  const isPractice = mode === MODE.PRACTICE
+  const questions = isPractice ? (activePart?.questions ?? []) : (testQuestions ?? [])
   const total = questions.length
   const currentQuestion = questions[currentIndex]
   const answeredCount = Object.keys(answers).length
-  const isPractice = mode === MODE.PRACTICE
+
+  useEffect(() => {
+    let timer
+    if (screen === 'test' && timeLeft > 0) {
+      timer = setInterval(() => {
+        setTimeLeft((t) => {
+          if (t <= 1) {
+            clearInterval(timer)
+            setScreen('test-result')
+            return 0
+          }
+          return t - 1
+        })
+      }, 1000)
+    }
+    return () => clearInterval(timer)
+  }, [screen, timeLeft])
 
   const results = useMemo(() => {
     return questions.map((q) => {
@@ -65,14 +91,22 @@ export default function AnhVanDauVao2026({ onExit }) {
     setScreen('home')
     setMode(null)
     setActivePart(null)
+    setTestQuestions(null)
     resetQuestionState()
   }
 
   function enterMode(nextMode) {
     setMode(nextMode)
-    setScreen('topics')
-    setActivePart(null)
     resetQuestionState()
+    if (nextMode === MODE.TEST) {
+      setTestQuestions(generateFullTest())
+      setScreen('test-start')
+      setActivePart(null)
+    } else {
+      setScreen('topics')
+      setActivePart(null)
+      setTestQuestions(null)
+    }
   }
 
   function selectPart(part) {
@@ -119,6 +153,7 @@ export default function AnhVanDauVao2026({ onExit }) {
     setCurrentIndex(0)
     setAnswers({})
     setCheckedMap({})
+    setTimeLeft(90 * 60)
   }
 
   function submitTest() {
@@ -203,15 +238,19 @@ export default function AnhVanDauVao2026({ onExit }) {
     )
   }
 
-  if (screen === 'test-start' && activePart) {
+  if (screen === 'test-start' && (isPractice ? activePart : testQuestions)) {
+    const title = isPractice ? activePart.title : 'Bài test tổng hợp'
+    const description = isPractice 
+      ? activePart.description 
+      : 'Cấu trúc bài thi: 80 câu hỏi. Thời gian làm bài: 90 phút. Các câu hỏi được sắp xếp ngẫu nhiên.'
     return (
       <div className="app">
         <header className="header">
-          <button type="button" className="back-link" onClick={backToTopics}>
-            ← Chọn chủ đề
+          <button type="button" className="back-link" onClick={isPractice ? backToTopics : goCourseHome}>
+            ← {isPractice ? 'Chọn chủ đề' : 'Trang chính'}
           </button>
-          <h1>{activePart.title}</h1>
-          <p className="subtitle">{activePart.description}</p>
+          <h1>{title}</h1>
+          <p className="subtitle">{description}</p>
         </header>
         <main className="card card--center">
           <p className="meta">
@@ -225,8 +264,8 @@ export default function AnhVanDauVao2026({ onExit }) {
             >
               Bắt đầu làm bài
             </button>
-            <button type="button" className="btn" onClick={backToTopics}>
-              Chọn chủ đề khác
+            <button type="button" className="btn" onClick={isPractice ? backToTopics : goCourseHome}>
+              {isPractice ? 'Chọn chủ đề khác' : 'Quay lại'}
             </button>
           </div>
         </main>
@@ -234,13 +273,14 @@ export default function AnhVanDauVao2026({ onExit }) {
     )
   }
 
-  if (screen === 'test-result' && activePart) {
+  if (screen === 'test-result' && (isPractice ? activePart : testQuestions)) {
     const percent = total > 0 ? Math.round((score / total) * 100) : 0
+    const title = isPractice ? activePart.title : 'Bài test tổng hợp'
 
     return (
       <div className="app">
         <header className="header">
-          <h1>Kết quả test — {activePart.title}</h1>
+          <h1>Kết quả test — {title}</h1>
           <p className="subtitle">
             Đúng <strong>{score}</strong> / {total} câu ({percent}%)
           </p>
@@ -271,14 +311,17 @@ export default function AnhVanDauVao2026({ onExit }) {
             type="button"
             className="btn btn--primary"
             onClick={() => {
+              if (!isPractice) {
+                setTestQuestions(generateFullTest())
+              }
               setScreen('test-start')
               resetQuestionState()
             }}
           >
             Làm lại bài test
           </button>
-          <button type="button" className="btn" onClick={backToTopics}>
-            Chọn chủ đề khác
+          <button type="button" className="btn" onClick={isPractice ? backToTopics : goCourseHome}>
+            {isPractice ? 'Chọn chủ đề khác' : 'Quay lại trang chính'}
           </button>
         </footer>
       </div>
@@ -288,7 +331,7 @@ export default function AnhVanDauVao2026({ onExit }) {
   if (
     (screen === 'practice' || screen === 'test') &&
     currentQuestion &&
-    activePart
+    (isPractice ? activePart : testQuestions)
   ) {
     const progress = ((currentIndex + 1) / total) * 100
     const showCheckUi = screen === 'practice'
@@ -299,18 +342,23 @@ export default function AnhVanDauVao2026({ onExit }) {
           <button
             type="button"
             className="back-link back-link--inline"
-            onClick={backToTopics}
+            onClick={isPractice ? backToTopics : goCourseHome}
           >
-            ← Chủ đề
+            ← {isPractice ? 'Chủ đề' : 'Trang chính'}
           </button>
           <p className="part-title">
-            {isPractice ? 'Ôn luyện' : 'Test'} · {activePart.title}
+            {isPractice ? `Ôn luyện · ${activePart.title}` : `Test · ${currentQuestion.partTitle || 'Bài test'}`}
           </p>
           <div className="header-row">
             <span className="badge">#{currentQuestion.id}</span>
             <span className="badge">
               {currentIndex + 1} / {total}
             </span>
+            {screen === 'test' && (
+              <span className="badge badge--timer">
+                ⏳ {formatTime(timeLeft)}
+              </span>
+            )}
             {!showCheckUi && (
               <span className="badge badge--muted">
                 Đã trả lời: {answeredCount}/{total}
@@ -323,11 +371,11 @@ export default function AnhVanDauVao2026({ onExit }) {
         </header>
 
         <main className="card">
-          {activePart?.readingContent && (
+          {(isPractice ? activePart?.readingContent : currentQuestion?.readingContent) && (
             <details className="reading" open>
               <summary className="reading__toggle">Đoạn văn đọc hiểu</summary>
               <div className="reading__content">
-                {activePart.readingContent.split('\n\n').map((para, i) => (
+                {(isPractice ? activePart.readingContent : currentQuestion.readingContent).split('\n\n').map((para, i) => (
                   <p key={i}>{para}</p>
                 ))}
               </div>

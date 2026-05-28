@@ -40,3 +40,38 @@ export function isCorrectAnswer(question, selected) {
   if (!selected) return false
   return selected === getCorrectAnswer(question)
 }
+
+export function shuffleArray(array) {
+  const newArr = [...array]
+  for (let i = newArr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1))
+    ;[newArr[i], newArr[j]] = [newArr[j], newArr[i]]
+  }
+  return newArr
+}
+
+export function generateFullTest() {
+  const p1Shuffled = shuffleArray(p1).slice(0, 15).map(q => ({
+    ...q,
+    partTitle: 'Phần 1 — Cấu trúc câu'
+  }))
+  
+  const p2Shuffled = shuffleArray(p2).slice(0, 25).map(q => ({
+    ...q,
+    partTitle: 'Phần 2 — Tìm lỗi sai'
+  }))
+  
+  const selectedPassages = shuffleArray(p3Passages).slice(0, 4)
+  const p3Questions = []
+  
+  selectedPassages.forEach((passage) => {
+    const shuffledQuestions = shuffleArray(passage.questions).map(q => ({
+      ...q,
+      partTitle: `Phần 3 — ${passage.title.trim()}`,
+      readingContent: passage.readingContent
+    }))
+    p3Questions.push(...shuffledQuestions)
+  })
+  
+  return [...p1Shuffled, ...p2Shuffled, ...p3Questions]
+}
