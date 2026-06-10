@@ -39,8 +39,8 @@
           "He had sleepless nights.",
           "He had a mobile life as a pilot."
         ],
-        "correctAnwser": "He had sleepless nights.",
-        "desc": "Đoạn 2: '...his time in Korea was why he would wake up screaming at night, thinking the ceiling fan was a helicopter.' (Anh ấy thường tỉnh dậy la hét vào ban đêm)."
+        "correctAnwser": "It was not easy.",
+        "desc": "Đoạn 2:."
       },
       {
         "id": "3.4",
@@ -162,7 +162,7 @@
           "Two-thirds",
           "About four-fifths"
         ],
-        "correctAnwser": "Two-thirds",
+        "correctAnwser": "About four-fifths",
         "desc": "Đoạn 1: 'The largest 250 cities in the region will contribute two-thirds of this growth.'"
       },
       {
@@ -324,8 +324,8 @@
           "forecasts.",
           "answers."
         ],
-        "correctAnwser": "weather forecasting services.",
-        "desc": "'They' ở đây dùng để chỉ các dịch vụ/ứng dụng dự báo thời tiết (weather forecasting services) được nhắc đến ở câu trước đó của Hannah Fry."
+        "correctAnwser": "the data.",
+        "desc": "Ở đây dùng để chỉ các dữ liệu liên quan đến áp suất, tốc độ không khí, lượng mưa và nhiệt độ (data relating to pressure, air speed, rainfall and temperature) được đề cập ở câu trước."
       },
       {
         "id": "3.25",
