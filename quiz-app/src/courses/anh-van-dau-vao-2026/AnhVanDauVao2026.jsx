@@ -292,7 +292,8 @@ export default function AnhVanDauVao2026({ onExit }) {
               className={`result-item ${item.correct ? 'result-item--ok' : 'result-item--fail'}`}
             >
               <h3>
-                <span className="result-id">{item.id}</span> {item.question}
+                <span className="result-id">{item.id}</span>
+                <span dangerouslySetInnerHTML={{ __html: item.question }} />
               </h3>
               <p>
                 Bạn chọn: <span>{item.selected ?? '— (chưa chọn)'}</span>
@@ -381,7 +382,7 @@ export default function AnhVanDauVao2026({ onExit }) {
               </div>
             </details>
           )}
-          <h2 className="question">{currentQuestion.question}</h2>
+          <h2 className="question" dangerouslySetInnerHTML={{ __html: currentQuestion.question }} />
           <ul className="options" role="radiogroup" aria-label="Chọn đáp án">
             {currentQuestion.options.map((optionText, index) => {
               const isSelected = currentSelected === optionText
